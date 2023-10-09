@@ -1,4 +1,3 @@
-DESCRIPTION
 Introducing Grand Theft Warzone: The Ultimate PvP Modpack Experience!
 Get ready for an awesome Minecraft modpack called Grand Theft Warzone! It's all about exciting battles with other players, leveling up, building stuff, forming gangs, getting cool vehicles, and more.
 In Grand Theft Warzone, you'll have amazing adventures and non-stop action. Fight against other players in big battles in different places like cities, deserts, and dangerous areas. Show off your fighting skills, outsmart your opponents, and rise to the top.
