@@ -14,5 +14,12 @@ Assembled by a passionate team of developers, we proudly present an immersive mo
 
 Are you set to embrace the riveting world of **Grand Theft Warzone**? Rally your comrades, sharpen your faculties, and plunge into a modpack filled with infinite prospects. The arena awaits your dominance.
 
+## Roadmap 🛣️
+
+Eager to see what's coming next?
+Check out our **[Grand Theft Warzone Development Roadmap](https://github.com/your-repo-name/projects/1)**!
+<p>It's regularly updated, providing a glimpse into the game's future and showcasing upcoming features.</p>
+<p>Your feedback is vital, so feel free to share your thoughts and suggestions!</p>
+
 - [**Join us on Discord**](https://discord.gg/yRtuqc5YRA)
 - [**Visit our Website**](http://www.grandtheftwarzone.com)
