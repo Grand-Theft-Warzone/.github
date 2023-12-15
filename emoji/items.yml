@@ -1,0 +1,3972 @@
+- name: fluid:water
+  location: 'assets/item/fluid:water.png'
+  strings:
+  - '~fluid:water~'
+- name: fluid:lava
+  location: 'assets/item/fluid:lava.png'
+  strings:
+  - '~fluid:lava~'
+- name: minecraft:piston:0
+  location: 'assets/item/minecraft:piston:0.png'
+  strings:
+  - '~minecraft:piston:0~'
+- name: minecraft:wheat_seeds:0
+  location: 'assets/item/minecraft:wheat_seeds:0.png'
+  strings:
+  - '~minecraft:wheat_seeds:0~'
+- name: gunsrpg:amethyst_ammo_12g:0
+  location: 'assets/item/gunsrpg:amethyst_ammo_12g:0.png'
+  strings:
+  - '~gunsrpg:amethyst_ammo_12g:0~'
+- name: minecraft:golden_rail:0
+  location: 'assets/item/minecraft:golden_rail:0.png'
+  strings:
+  - '~minecraft:golden_rail:0~'
+- name: minecraft:end_crystal:0
+  location: 'assets/item/minecraft:end_crystal:0.png'
+  strings:
+  - '~minecraft:end_crystal:0~'
+- name: minecraft:brown_mushroom:0
+  location: 'assets/item/minecraft:brown_mushroom:0.png'
+  strings:
+  - '~minecraft:brown_mushroom:0~'
+- name: minecraft:gold_ingot:0
+  location: 'assets/item/minecraft:gold_ingot:0.png'
+  strings:
+  - '~minecraft:gold_ingot:0~'
+- name: minecraft:rabbit_hide:0
+  location: 'assets/item/minecraft:rabbit_hide:0.png'
+  strings:
+  - '~minecraft:rabbit_hide:0~'
+- name: minecraft:blaze_rod:0
+  location: 'assets/item/minecraft:blaze_rod:0.png'
+  strings:
+  - '~minecraft:blaze_rod:0~'
+- name: minecraft:stone_pickaxe:0
+  location: 'assets/item/minecraft:stone_pickaxe:0.png'
+  strings:
+  - '~minecraft:stone_pickaxe:0~'
+- name: minecraft:light_blue_glazed_terracotta:0
+  location: 'assets/item/minecraft:light_blue_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:light_blue_glazed_terracotta:0~'
+- name: minecraft:dispenser:0
+  location: 'assets/item/minecraft:dispenser:0.png'
+  strings:
+  - '~minecraft:dispenser:0~'
+- name: minecraft:wooden_axe:0
+  location: 'assets/item/minecraft:wooden_axe:0.png'
+  strings:
+  - '~minecraft:wooden_axe:0~'
+- name: gunsrpg:amethyst:0
+  location: 'assets/item/gunsrpg:amethyst:0.png'
+  strings:
+  - '~gunsrpg:amethyst:0~'
+- name: minecraft:bone_block:0
+  location: 'assets/item/minecraft:bone_block:0.png'
+  strings:
+  - '~minecraft:bone_block:0~'
+- name: minecraft:daylight_detector:0
+  location: 'assets/item/minecraft:daylight_detector:0.png'
+  strings:
+  - '~minecraft:daylight_detector:0~'
+- name: minecraft:sponge:0
+  location: 'assets/item/minecraft:sponge:0.png'
+  strings:
+  - '~minecraft:sponge:0~'
+- name: minecraft:sponge:1
+  location: 'assets/item/minecraft:sponge:1.png'
+  strings:
+  - '~minecraft:sponge:1~'
+- name: minecraft:quartz_stairs:0
+  location: 'assets/item/minecraft:quartz_stairs:0.png'
+  strings:
+  - '~minecraft:quartz_stairs:0~'
+- name: minecraft:red_flower:0
+  location: 'assets/item/minecraft:red_flower:0.png'
+  strings:
+  - '~minecraft:red_flower:0~'
+- name: minecraft:red_flower:1
+  location: 'assets/item/minecraft:red_flower:1.png'
+  strings:
+  - '~minecraft:red_flower:1~'
+- name: minecraft:red_flower:2
+  location: 'assets/item/minecraft:red_flower:2.png'
+  strings:
+  - '~minecraft:red_flower:2~'
+- name: minecraft:red_flower:3
+  location: 'assets/item/minecraft:red_flower:3.png'
+  strings:
+  - '~minecraft:red_flower:3~'
+- name: minecraft:red_flower:4
+  location: 'assets/item/minecraft:red_flower:4.png'
+  strings:
+  - '~minecraft:red_flower:4~'
+- name: minecraft:red_flower:5
+  location: 'assets/item/minecraft:red_flower:5.png'
+  strings:
+  - '~minecraft:red_flower:5~'
+- name: minecraft:red_flower:6
+  location: 'assets/item/minecraft:red_flower:6.png'
+  strings:
+  - '~minecraft:red_flower:6~'
+- name: minecraft:red_flower:7
+  location: 'assets/item/minecraft:red_flower:7.png'
+  strings:
+  - '~minecraft:red_flower:7~'
+- name: minecraft:red_flower:8
+  location: 'assets/item/minecraft:red_flower:8.png'
+  strings:
+  - '~minecraft:red_flower:8~'
+- name: minecraft:bed:0
+  location: 'assets/item/minecraft:bed:0.png'
+  strings:
+  - '~minecraft:bed:0~'
+- name: minecraft:bed:1
+  location: 'assets/item/minecraft:bed:1.png'
+  strings:
+  - '~minecraft:bed:1~'
+- name: minecraft:bed:2
+  location: 'assets/item/minecraft:bed:2.png'
+  strings:
+  - '~minecraft:bed:2~'
+- name: minecraft:bed:3
+  location: 'assets/item/minecraft:bed:3.png'
+  strings:
+  - '~minecraft:bed:3~'
+- name: minecraft:bed:4
+  location: 'assets/item/minecraft:bed:4.png'
+  strings:
+  - '~minecraft:bed:4~'
+- name: minecraft:bed:5
+  location: 'assets/item/minecraft:bed:5.png'
+  strings:
+  - '~minecraft:bed:5~'
+- name: minecraft:bed:6
+  location: 'assets/item/minecraft:bed:6.png'
+  strings:
+  - '~minecraft:bed:6~'
+- name: minecraft:bed:7
+  location: 'assets/item/minecraft:bed:7.png'
+  strings:
+  - '~minecraft:bed:7~'
+- name: minecraft:bed:8
+  location: 'assets/item/minecraft:bed:8.png'
+  strings:
+  - '~minecraft:bed:8~'
+- name: minecraft:bed:9
+  location: 'assets/item/minecraft:bed:9.png'
+  strings:
+  - '~minecraft:bed:9~'
+- name: minecraft:bed:10
+  location: 'assets/item/minecraft:bed:10.png'
+  strings:
+  - '~minecraft:bed:10~'
+- name: minecraft:bed:11
+  location: 'assets/item/minecraft:bed:11.png'
+  strings:
+  - '~minecraft:bed:11~'
+- name: minecraft:bed:12
+  location: 'assets/item/minecraft:bed:12.png'
+  strings:
+  - '~minecraft:bed:12~'
+- name: minecraft:bed:13
+  location: 'assets/item/minecraft:bed:13.png'
+  strings:
+  - '~minecraft:bed:13~'
+- name: minecraft:bed:14
+  location: 'assets/item/minecraft:bed:14.png'
+  strings:
+  - '~minecraft:bed:14~'
+- name: minecraft:bed:15
+  location: 'assets/item/minecraft:bed:15.png'
+  strings:
+  - '~minecraft:bed:15~'
+- name: minecraft:iron_nugget:0
+  location: 'assets/item/minecraft:iron_nugget:0.png'
+  strings:
+  - '~minecraft:iron_nugget:0~'
+- name: minecraft:melon:0
+  location: 'assets/item/minecraft:melon:0.png'
+  strings:
+  - '~minecraft:melon:0~'
+- name: minecraft:purple_glazed_terracotta:0
+  location: 'assets/item/minecraft:purple_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:purple_glazed_terracotta:0~'
+- name: gunsrpg:iron_stock:0
+  location: 'assets/item/gunsrpg:iron_stock:0.png'
+  strings:
+  - '~gunsrpg:iron_stock:0~'
+- name: minecraft:birch_fence:0
+  location: 'assets/item/minecraft:birch_fence:0.png'
+  strings:
+  - '~minecraft:birch_fence:0~'
+- name: gunsrpg:shotgun_shell:0
+  location: 'assets/item/gunsrpg:shotgun_shell:0.png'
+  strings:
+  - '~gunsrpg:shotgun_shell:0~'
+- name: minecraft:silver_shulker_box:0
+  location: 'assets/item/minecraft:silver_shulker_box:0.png'
+  strings:
+  - '~minecraft:silver_shulker_box:0~'
+- name: gunsrpg:gold_ammo_45acp:0
+  location: 'assets/item/gunsrpg:gold_ammo_45acp:0.png'
+  strings:
+  - '~gunsrpg:gold_ammo_45acp:0~'
+- name: minecraft:purpur_slab:0
+  location: 'assets/item/minecraft:purpur_slab:0.png'
+  strings:
+  - '~minecraft:purpur_slab:0~'
+- name: minecraft:cooked_rabbit:0
+  location: 'assets/item/minecraft:cooked_rabbit:0.png'
+  strings:
+  - '~minecraft:cooked_rabbit:0~'
+- name: gunsrpg:amethyst_ammo_556mm:0
+  location: 'assets/item/gunsrpg:amethyst_ammo_556mm:0.png'
+  strings:
+  - '~gunsrpg:amethyst_ammo_556mm:0~'
+- name: minecraft:tripwire_hook:0
+  location: 'assets/item/minecraft:tripwire_hook:0.png'
+  strings:
+  - '~minecraft:tripwire_hook:0~'
+- name: minecraft:red_mushroom:0
+  location: 'assets/item/minecraft:red_mushroom:0.png'
+  strings:
+  - '~minecraft:red_mushroom:0~'
+- name: minecraft:trapped_chest:0
+  location: 'assets/item/minecraft:trapped_chest:0.png'
+  strings:
+  - '~minecraft:trapped_chest:0~'
+- name: minecraft:hopper:0
+  location: 'assets/item/minecraft:hopper:0.png'
+  strings:
+  - '~minecraft:hopper:0~'
+- name: minecraft:nether_wart_block:0
+  location: 'assets/item/minecraft:nether_wart_block:0.png'
+  strings:
+  - '~minecraft:nether_wart_block:0~'
+- name: minecraft:concrete_powder:0
+  location: 'assets/item/minecraft:concrete_powder:0.png'
+  strings:
+  - '~minecraft:concrete_powder:0~'
+- name: minecraft:concrete_powder:1
+  location: 'assets/item/minecraft:concrete_powder:1.png'
+  strings:
+  - '~minecraft:concrete_powder:1~'
+- name: minecraft:concrete_powder:2
+  location: 'assets/item/minecraft:concrete_powder:2.png'
+  strings:
+  - '~minecraft:concrete_powder:2~'
+- name: minecraft:concrete_powder:3
+  location: 'assets/item/minecraft:concrete_powder:3.png'
+  strings:
+  - '~minecraft:concrete_powder:3~'
+- name: minecraft:concrete_powder:4
+  location: 'assets/item/minecraft:concrete_powder:4.png'
+  strings:
+  - '~minecraft:concrete_powder:4~'
+- name: minecraft:concrete_powder:5
+  location: 'assets/item/minecraft:concrete_powder:5.png'
+  strings:
+  - '~minecraft:concrete_powder:5~'
+- name: minecraft:concrete_powder:6
+  location: 'assets/item/minecraft:concrete_powder:6.png'
+  strings:
+  - '~minecraft:concrete_powder:6~'
+- name: minecraft:concrete_powder:7
+  location: 'assets/item/minecraft:concrete_powder:7.png'
+  strings:
+  - '~minecraft:concrete_powder:7~'
+- name: minecraft:concrete_powder:8
+  location: 'assets/item/minecraft:concrete_powder:8.png'
+  strings:
+  - '~minecraft:concrete_powder:8~'
+- name: minecraft:concrete_powder:9
+  location: 'assets/item/minecraft:concrete_powder:9.png'
+  strings:
+  - '~minecraft:concrete_powder:9~'
+- name: minecraft:concrete_powder:10
+  location: 'assets/item/minecraft:concrete_powder:10.png'
+  strings:
+  - '~minecraft:concrete_powder:10~'
+- name: minecraft:concrete_powder:11
+  location: 'assets/item/minecraft:concrete_powder:11.png'
+  strings:
+  - '~minecraft:concrete_powder:11~'
+- name: minecraft:concrete_powder:12
+  location: 'assets/item/minecraft:concrete_powder:12.png'
+  strings:
+  - '~minecraft:concrete_powder:12~'
+- name: minecraft:concrete_powder:13
+  location: 'assets/item/minecraft:concrete_powder:13.png'
+  strings:
+  - '~minecraft:concrete_powder:13~'
+- name: minecraft:concrete_powder:14
+  location: 'assets/item/minecraft:concrete_powder:14.png'
+  strings:
+  - '~minecraft:concrete_powder:14~'
+- name: minecraft:concrete_powder:15
+  location: 'assets/item/minecraft:concrete_powder:15.png'
+  strings:
+  - '~minecraft:concrete_powder:15~'
+- name: minecraft:potion:0__{Potion:"minecraft:water"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:water"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:water"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:mundane"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:mundane"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:mundane"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:thick"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:thick"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:thick"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:awkward"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:awkward"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:awkward"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:night_vision"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:night_vision"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:night_vision"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_night_vision"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_night_vision"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_night_vision"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:invisibility"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:invisibility"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:invisibility"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_invisibility"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_invisibility"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_invisibility"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:leaping"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:leaping"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:leaping"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_leaping"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_leaping"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_leaping"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:strong_leaping"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:strong_leaping"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:strong_leaping"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:fire_resistance"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:fire_resistance"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:fire_resistance"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_fire_resistance"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_fire_resistance"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_fire_resistance"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:swiftness"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:swiftness"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:swiftness"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_swiftness"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_swiftness"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_swiftness"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:strong_swiftness"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:strong_swiftness"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:strong_swiftness"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:slowness"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:slowness"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:slowness"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_slowness"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_slowness"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_slowness"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:water_breathing"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:water_breathing"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:water_breathing"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_water_breathing"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_water_breathing"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_water_breathing"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:healing"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:healing"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:healing"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:strong_healing"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:strong_healing"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:strong_healing"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:harming"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:harming"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:harming"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:strong_harming"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:strong_harming"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:strong_harming"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:poison"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:poison"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:poison"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_poison"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_poison"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_poison"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:strong_poison"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:strong_poison"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:strong_poison"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:regeneration"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:regeneration"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:regeneration"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_regeneration"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_regeneration"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_regeneration"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:strong_regeneration"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:strong_regeneration"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:strong_regeneration"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:strength"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:strength"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:strength"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_strength"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_strength"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_strength"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:strong_strength"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:strong_strength"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:strong_strength"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:weakness"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:weakness"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:weakness"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:long_weakness"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:long_weakness"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:long_weakness"}~'
+- name: minecraft:potion:0__{Potion:"minecraft:luck"}
+  location: 'assets/item/minecraft:potion:0__{Potion:"minecraft:luck"}.png'
+  strings:
+  - '~minecraft:potion:0__{Potion:"minecraft:luck"}~'
+- name: minecraft:cobblestone_wall:0
+  location: 'assets/item/minecraft:cobblestone_wall:0.png'
+  strings:
+  - '~minecraft:cobblestone_wall:0~'
+- name: minecraft:cobblestone_wall:1
+  location: 'assets/item/minecraft:cobblestone_wall:1.png'
+  strings:
+  - '~minecraft:cobblestone_wall:1~'
+- name: minecraft:ender_chest:0
+  location: 'assets/item/minecraft:ender_chest:0.png'
+  strings:
+  - '~minecraft:ender_chest:0~'
+- name: minecraft:gold_nugget:0
+  location: 'assets/item/minecraft:gold_nugget:0.png'
+  strings:
+  - '~minecraft:gold_nugget:0~'
+- name: minecraft:iron_bars:0
+  location: 'assets/item/minecraft:iron_bars:0.png'
+  strings:
+  - '~minecraft:iron_bars:0~'
+- name: minecraft:leaves2:0
+  location: 'assets/item/minecraft:leaves2:0.png'
+  strings:
+  - '~minecraft:leaves2:0~'
+- name: minecraft:leaves2:1
+  location: 'assets/item/minecraft:leaves2:1.png'
+  strings:
+  - '~minecraft:leaves2:1~'
+- name: minecraft:beetroot_soup:0
+  location: 'assets/item/minecraft:beetroot_soup:0.png'
+  strings:
+  - '~minecraft:beetroot_soup:0~'
+- name: gunsrpg:emerald_ammo_crossbow_bolt:0
+  location: 'assets/item/gunsrpg:emerald_ammo_crossbow_bolt:0.png'
+  strings:
+  - '~gunsrpg:emerald_ammo_crossbow_bolt:0~'
+- name: minecraft:coal_block:0
+  location: 'assets/item/minecraft:coal_block:0.png'
+  strings:
+  - '~minecraft:coal_block:0~'
+- name: minecraft:iron_trapdoor:0
+  location: 'assets/item/minecraft:iron_trapdoor:0.png'
+  strings:
+  - '~minecraft:iron_trapdoor:0~'
+- name: minecraft:rabbit:0
+  location: 'assets/item/minecraft:rabbit:0.png'
+  strings:
+  - '~minecraft:rabbit:0~'
+- name: minecraft:green_glazed_terracotta:0
+  location: 'assets/item/minecraft:green_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:green_glazed_terracotta:0~'
+- name: minecraft:cobblestone:0
+  location: 'assets/item/minecraft:cobblestone:0.png'
+  strings:
+  - '~minecraft:cobblestone:0~'
+- name: minecraft:slime_ball:0
+  location: 'assets/item/minecraft:slime_ball:0.png'
+  strings:
+  - '~minecraft:slime_ball:0~'
+- name: minecraft:spruce_fence_gate:0
+  location: 'assets/item/minecraft:spruce_fence_gate:0.png'
+  strings:
+  - '~minecraft:spruce_fence_gate:0~'
+- name: minecraft:diamond_axe:0
+  location: 'assets/item/minecraft:diamond_axe:0.png'
+  strings:
+  - '~minecraft:diamond_axe:0~'
+- name: minecraft:iron_helmet:0
+  location: 'assets/item/minecraft:iron_helmet:0.png'
+  strings:
+  - '~minecraft:iron_helmet:0~'
+- name: minecraft:leather_chestplate:0
+  location: 'assets/item/minecraft:leather_chestplate:0.png'
+  strings:
+  - '~minecraft:leather_chestplate:0~'
+- name: minecraft:slime:0
+  location: 'assets/item/minecraft:slime:0.png'
+  strings:
+  - '~minecraft:slime:0~'
+- name: minecraft:magma:0
+  location: 'assets/item/minecraft:magma:0.png'
+  strings:
+  - '~minecraft:magma:0~'
+- name: gunsrpg:iron_ammo_556mm:0
+  location: 'assets/item/gunsrpg:iron_ammo_556mm:0.png'
+  strings:
+  - '~gunsrpg:iron_ammo_556mm:0~'
+- name: minecraft:iron_block:0
+  location: 'assets/item/minecraft:iron_block:0.png'
+  strings:
+  - '~minecraft:iron_block:0~'
+- name: minecraft:beef:0
+  location: 'assets/item/minecraft:beef:0.png'
+  strings:
+  - '~minecraft:beef:0~'
+- name: gunsrpg:deluxe_meal:0
+  location: 'assets/item/gunsrpg:deluxe_meal:0.png'
+  strings:
+  - '~gunsrpg:deluxe_meal:0~'
+- name: gunsrpg:morphine:0
+  location: 'assets/item/gunsrpg:morphine:0.png'
+  strings:
+  - '~gunsrpg:morphine:0~'
+- name: minecraft:stone_slab:0
+  location: 'assets/item/minecraft:stone_slab:0.png'
+  strings:
+  - '~minecraft:stone_slab:0~'
+- name: minecraft:stone_slab:1
+  location: 'assets/item/minecraft:stone_slab:1.png'
+  strings:
+  - '~minecraft:stone_slab:1~'
+- name: minecraft:stone_slab:3
+  location: 'assets/item/minecraft:stone_slab:3.png'
+  strings:
+  - '~minecraft:stone_slab:3~'
+- name: minecraft:stone_slab:4
+  location: 'assets/item/minecraft:stone_slab:4.png'
+  strings:
+  - '~minecraft:stone_slab:4~'
+- name: minecraft:stone_slab:5
+  location: 'assets/item/minecraft:stone_slab:5.png'
+  strings:
+  - '~minecraft:stone_slab:5~'
+- name: minecraft:stone_slab:6
+  location: 'assets/item/minecraft:stone_slab:6.png'
+  strings:
+  - '~minecraft:stone_slab:6~'
+- name: minecraft:stone_slab:7
+  location: 'assets/item/minecraft:stone_slab:7.png'
+  strings:
+  - '~minecraft:stone_slab:7~'
+- name: minecraft:dark_oak_door:0
+  location: 'assets/item/minecraft:dark_oak_door:0.png'
+  strings:
+  - '~minecraft:dark_oak_door:0~'
+- name: minecraft:cooked_porkchop:0
+  location: 'assets/item/minecraft:cooked_porkchop:0.png'
+  strings:
+  - '~minecraft:cooked_porkchop:0~'
+- name: minecraft:record_blocks:0
+  location: 'assets/item/minecraft:record_blocks:0.png'
+  strings:
+  - '~minecraft:record_blocks:0~'
+- name: minecraft:totem_of_undying:0
+  location: 'assets/item/minecraft:totem_of_undying:0.png'
+  strings:
+  - '~minecraft:totem_of_undying:0~'
+- name: gunsrpg:stone_ammo_9mm:0
+  location: 'assets/item/gunsrpg:stone_ammo_9mm:0.png'
+  strings:
+  - '~gunsrpg:stone_ammo_9mm:0~'
+- name: minecraft:lapis_ore:0
+  location: 'assets/item/minecraft:lapis_ore:0.png'
+  strings:
+  - '~minecraft:lapis_ore:0~'
+- name: minecraft:diamond_horse_armor:0
+  location: 'assets/item/minecraft:diamond_horse_armor:0.png'
+  strings:
+  - '~minecraft:diamond_horse_armor:0~'
+- name: minecraft:gravel:0
+  location: 'assets/item/minecraft:gravel:0.png'
+  strings:
+  - '~minecraft:gravel:0~'
+- name: minecraft:writable_book:0
+  location: 'assets/item/minecraft:writable_book:0.png'
+  strings:
+  - '~minecraft:writable_book:0~'
+- name: gunsrpg:emerald_ammo_556mm:0
+  location: 'assets/item/gunsrpg:emerald_ammo_556mm:0.png'
+  strings:
+  - '~gunsrpg:emerald_ammo_556mm:0~'
+- name: minecraft:jungle_stairs:0
+  location: 'assets/item/minecraft:jungle_stairs:0.png'
+  strings:
+  - '~minecraft:jungle_stairs:0~'
+- name: minecraft:leather_helmet:0
+  location: 'assets/item/minecraft:leather_helmet:0.png'
+  strings:
+  - '~minecraft:leather_helmet:0~'
+- name: gunsrpg:emerald_ammo_12g:0
+  location: 'assets/item/gunsrpg:emerald_ammo_12g:0.png'
+  strings:
+  - '~gunsrpg:emerald_ammo_12g:0~'
+- name: gunsrpg:gold_ammo_762mm:0
+  location: 'assets/item/gunsrpg:gold_ammo_762mm:0.png'
+  strings:
+  - '~gunsrpg:gold_ammo_762mm:0~'
+- name: minecraft:snowball:0
+  location: 'assets/item/minecraft:snowball:0.png'
+  strings:
+  - '~minecraft:snowball:0~'
+- name: minecraft:emerald_block:0
+  location: 'assets/item/minecraft:emerald_block:0.png'
+  strings:
+  - '~minecraft:emerald_block:0~'
+- name: minecraft:golden_apple:0
+  location: 'assets/item/minecraft:golden_apple:0.png'
+  strings:
+  - '~minecraft:golden_apple:0~'
+- name: minecraft:golden_apple:1
+  location: 'assets/item/minecraft:golden_apple:1.png'
+  strings:
+  - '~minecraft:golden_apple:1~'
+- name: minecraft:quartz_ore:0
+  location: 'assets/item/minecraft:quartz_ore:0.png'
+  strings:
+  - '~minecraft:quartz_ore:0~'
+- name: minecraft:diamond_pickaxe:0
+  location: 'assets/item/minecraft:diamond_pickaxe:0.png'
+  strings:
+  - '~minecraft:diamond_pickaxe:0~'
+- name: minecraft:flower_pot:0
+  location: 'assets/item/minecraft:flower_pot:0.png'
+  strings:
+  - '~minecraft:flower_pot:0~'
+- name: minecraft:nether_brick_stairs:0
+  location: 'assets/item/minecraft:nether_brick_stairs:0.png'
+  strings:
+  - '~minecraft:nether_brick_stairs:0~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:night_vision"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:night_vision"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:night_vision"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_night_vision"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_night_vision"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_night_vision"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:invisibility"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:invisibility"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:invisibility"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_invisibility"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_invisibility"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_invisibility"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:leaping"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:leaping"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:leaping"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_leaping"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_leaping"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_leaping"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:strong_leaping"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:strong_leaping"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:strong_leaping"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:fire_resistance"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:fire_resistance"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:fire_resistance"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_fire_resistance"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_fire_resistance"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_fire_resistance"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:swiftness"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:swiftness"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:swiftness"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_swiftness"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_swiftness"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_swiftness"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:strong_swiftness"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:strong_swiftness"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:strong_swiftness"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:slowness"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:slowness"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:slowness"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_slowness"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_slowness"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_slowness"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:water_breathing"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:water_breathing"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:water_breathing"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_water_breathing"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_water_breathing"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_water_breathing"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:healing"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:healing"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:healing"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:strong_healing"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:strong_healing"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:strong_healing"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:harming"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:harming"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:harming"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:strong_harming"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:strong_harming"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:strong_harming"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:poison"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:poison"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:poison"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_poison"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_poison"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_poison"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:strong_poison"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:strong_poison"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:strong_poison"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:regeneration"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:regeneration"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:regeneration"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_regeneration"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_regeneration"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_regeneration"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:strong_regeneration"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:strong_regeneration"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:strong_regeneration"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:strength"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:strength"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:strength"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_strength"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_strength"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_strength"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:strong_strength"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:strong_strength"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:strong_strength"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:weakness"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:weakness"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:weakness"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:long_weakness"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:long_weakness"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:long_weakness"}~'
+- name: minecraft:tipped_arrow:0__{Potion:"minecraft:luck"}
+  location: 'assets/item/minecraft:tipped_arrow:0__{Potion:"minecraft:luck"}.png'
+  strings:
+  - '~minecraft:tipped_arrow:0__{Potion:"minecraft:luck"}~'
+- name: gunsrpg:diamond_ammo_45acp:0
+  location: 'assets/item/gunsrpg:diamond_ammo_45acp:0.png'
+  strings:
+  - '~gunsrpg:diamond_ammo_45acp:0~'
+- name: minecraft:iron_sword:0
+  location: 'assets/item/minecraft:iron_sword:0.png'
+  strings:
+  - '~minecraft:iron_sword:0~'
+- name: minecraft:spruce_fence:0
+  location: 'assets/item/minecraft:spruce_fence:0.png'
+  strings:
+  - '~minecraft:spruce_fence:0~'
+- name: minecraft:lit_pumpkin:0
+  location: 'assets/item/minecraft:lit_pumpkin:0.png'
+  strings:
+  - '~minecraft:lit_pumpkin:0~'
+- name: minecraft:diamond_ore:0
+  location: 'assets/item/minecraft:diamond_ore:0.png'
+  strings:
+  - '~minecraft:diamond_ore:0~'
+- name: gunsrpg:wooden_ammo_9mm:0
+  location: 'assets/item/gunsrpg:wooden_ammo_9mm:0.png'
+  strings:
+  - '~gunsrpg:wooden_ammo_9mm:0~'
+- name: minecraft:baked_potato:0
+  location: 'assets/item/minecraft:baked_potato:0.png'
+  strings:
+  - '~minecraft:baked_potato:0~'
+- name: minecraft:pink_glazed_terracotta:0
+  location: 'assets/item/minecraft:pink_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:pink_glazed_terracotta:0~'
+- name: minecraft:black_shulker_box:0
+  location: 'assets/item/minecraft:black_shulker_box:0.png'
+  strings:
+  - '~minecraft:black_shulker_box:0~'
+- name: minecraft:purpur_pillar:0
+  location: 'assets/item/minecraft:purpur_pillar:0.png'
+  strings:
+  - '~minecraft:purpur_pillar:0~'
+- name: gunsrpg:wooden_ammo_45acp:0
+  location: 'assets/item/gunsrpg:wooden_ammo_45acp:0.png'
+  strings:
+  - '~gunsrpg:wooden_ammo_45acp:0~'
+- name: minecraft:heavy_weighted_pressure_plate:0
+  location: 'assets/item/minecraft:heavy_weighted_pressure_plate:0.png'
+  strings:
+  - '~minecraft:heavy_weighted_pressure_plate:0~'
+- name: minecraft:stone_shovel:0
+  location: 'assets/item/minecraft:stone_shovel:0.png'
+  strings:
+  - '~minecraft:stone_shovel:0~'
+- name: gunsrpg:skillpoint_book:0
+  location: 'assets/item/gunsrpg:skillpoint_book:0.png'
+  strings:
+  - '~gunsrpg:skillpoint_book:0~'
+- name: minecraft:golden_leggings:0
+  location: 'assets/item/minecraft:golden_leggings:0.png'
+  strings:
+  - '~minecraft:golden_leggings:0~'
+- name: gunsrpg:chicken_dinner:0
+  location: 'assets/item/gunsrpg:chicken_dinner:0.png'
+  strings:
+  - '~gunsrpg:chicken_dinner:0~'
+- name: gunsrpg:vaccine:0
+  location: 'assets/item/gunsrpg:vaccine:0.png'
+  strings:
+  - '~gunsrpg:vaccine:0~'
+- name: gunsrpg:wooden_ammo_762mm:0
+  location: 'assets/item/gunsrpg:wooden_ammo_762mm:0.png'
+  strings:
+  - '~gunsrpg:wooden_ammo_762mm:0~'
+- name: gunsrpg:analgetics:0
+  location: 'assets/item/gunsrpg:analgetics:0.png'
+  strings:
+  - '~gunsrpg:analgetics:0~'
+- name: gunsrpg:gold_dragon_egg:0
+  location: 'assets/item/gunsrpg:gold_dragon_egg:0.png'
+  strings:
+  - '~gunsrpg:gold_dragon_egg:0~'
+- name: minecraft:chainmail_leggings:0
+  location: 'assets/item/minecraft:chainmail_leggings:0.png'
+  strings:
+  - '~minecraft:chainmail_leggings:0~'
+- name: minecraft:stone_pressure_plate:0
+  location: 'assets/item/minecraft:stone_pressure_plate:0.png'
+  strings:
+  - '~minecraft:stone_pressure_plate:0~'
+- name: minecraft:dropper:0
+  location: 'assets/item/minecraft:dropper:0.png'
+  strings:
+  - '~minecraft:dropper:0~'
+- name: minecraft:redstone_lamp:0
+  location: 'assets/item/minecraft:redstone_lamp:0.png'
+  strings:
+  - '~minecraft:redstone_lamp:0~'
+- name: minecraft:golden_boots:0
+  location: 'assets/item/minecraft:golden_boots:0.png'
+  strings:
+  - '~minecraft:golden_boots:0~'
+- name: minecraft:end_rod:0
+  location: 'assets/item/minecraft:end_rod:0.png'
+  strings:
+  - '~minecraft:end_rod:0~'
+- name: minecraft:acacia_door:0
+  location: 'assets/item/minecraft:acacia_door:0.png'
+  strings:
+  - '~minecraft:acacia_door:0~'
+- name: minecraft:redstone_ore:0
+  location: 'assets/item/minecraft:redstone_ore:0.png'
+  strings:
+  - '~minecraft:redstone_ore:0~'
+- name: minecraft:mossy_cobblestone:0
+  location: 'assets/item/minecraft:mossy_cobblestone:0.png'
+  strings:
+  - '~minecraft:mossy_cobblestone:0~'
+- name: minecraft:golden_helmet:0
+  location: 'assets/item/minecraft:golden_helmet:0.png'
+  strings:
+  - '~minecraft:golden_helmet:0~'
+- name: minecraft:glowstone_dust:0
+  location: 'assets/item/minecraft:glowstone_dust:0.png'
+  strings:
+  - '~minecraft:glowstone_dust:0~'
+- name: minecraft:sand:0
+  location: 'assets/item/minecraft:sand:0.png'
+  strings:
+  - '~minecraft:sand:0~'
+- name: minecraft:sand:1
+  location: 'assets/item/minecraft:sand:1.png'
+  strings:
+  - '~minecraft:sand:1~'
+- name: minecraft:trapdoor:0
+  location: 'assets/item/minecraft:trapdoor:0.png'
+  strings:
+  - '~minecraft:trapdoor:0~'
+- name: gunsrpg:small_iron_stock:0
+  location: 'assets/item/gunsrpg:small_iron_stock:0.png'
+  strings:
+  - '~gunsrpg:small_iron_stock:0~'
+- name: gunsrpg:gold_ammo_556mm:0
+  location: 'assets/item/gunsrpg:gold_ammo_556mm:0.png'
+  strings:
+  - '~gunsrpg:gold_ammo_556mm:0~'
+- name: minecraft:fire_charge:0
+  location: 'assets/item/minecraft:fire_charge:0.png'
+  strings:
+  - '~minecraft:fire_charge:0~'
+- name: minecraft:golden_hoe:0
+  location: 'assets/item/minecraft:golden_hoe:0.png'
+  strings:
+  - '~minecraft:golden_hoe:0~'
+- name: minecraft:sticky_piston:0
+  location: 'assets/item/minecraft:sticky_piston:0.png'
+  strings:
+  - '~minecraft:sticky_piston:0~'
+- name: minecraft:redstone:0
+  location: 'assets/item/minecraft:redstone:0.png'
+  strings:
+  - '~minecraft:redstone:0~'
+- name: minecraft:blue_glazed_terracotta:0
+  location: 'assets/item/minecraft:blue_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:blue_glazed_terracotta:0~'
+- name: minecraft:emerald:0
+  location: 'assets/item/minecraft:emerald:0.png'
+  strings:
+  - '~minecraft:emerald:0~'
+- name: gunsrpg:diamond_ammo_9mm:0
+  location: 'assets/item/gunsrpg:diamond_ammo_9mm:0.png'
+  strings:
+  - '~gunsrpg:diamond_ammo_9mm:0~'
+- name: minecraft:bread:0
+  location: 'assets/item/minecraft:bread:0.png'
+  strings:
+  - '~minecraft:bread:0~'
+- name: gunsrpg:bolt_fletching:0
+  location: 'assets/item/gunsrpg:bolt_fletching:0.png'
+  strings:
+  - '~gunsrpg:bolt_fletching:0~'
+- name: minecraft:mutton:0
+  location: 'assets/item/minecraft:mutton:0.png'
+  strings:
+  - '~minecraft:mutton:0~'
+- name: minecraft:brown_shulker_box:0
+  location: 'assets/item/minecraft:brown_shulker_box:0.png'
+  strings:
+  - '~minecraft:brown_shulker_box:0~'
+- name: minecraft:wooden_pickaxe:0
+  location: 'assets/item/minecraft:wooden_pickaxe:0.png'
+  strings:
+  - '~minecraft:wooden_pickaxe:0~'
+- name: minecraft:torch:0
+  location: 'assets/item/minecraft:torch:0.png'
+  strings:
+  - '~minecraft:torch:0~'
+- name: minecraft:acacia_boat:0
+  location: 'assets/item/minecraft:acacia_boat:0.png'
+  strings:
+  - '~minecraft:acacia_boat:0~'
+- name: minecraft:lever:0
+  location: 'assets/item/minecraft:lever:0.png'
+  strings:
+  - '~minecraft:lever:0~'
+- name: minecraft:oak_stairs:0
+  location: 'assets/item/minecraft:oak_stairs:0.png'
+  strings:
+  - '~minecraft:oak_stairs:0~'
+- name: minecraft:nether_star:0
+  location: 'assets/item/minecraft:nether_star:0.png'
+  strings:
+  - '~minecraft:nether_star:0~'
+- name: minecraft:stone_button:0
+  location: 'assets/item/minecraft:stone_button:0.png'
+  strings:
+  - '~minecraft:stone_button:0~'
+- name: gunsrpg:diamond_ammo_762mm:0
+  location: 'assets/item/gunsrpg:diamond_ammo_762mm:0.png'
+  strings:
+  - '~gunsrpg:diamond_ammo_762mm:0~'
+- name: minecraft:map:0
+  location: 'assets/item/minecraft:map:0.png'
+  strings:
+  - '~minecraft:map:0~'
+- name: minecraft:pink_shulker_box:0
+  location: 'assets/item/minecraft:pink_shulker_box:0.png'
+  strings:
+  - '~minecraft:pink_shulker_box:0~'
+- name: minecraft:ghast_tear:0
+  location: 'assets/item/minecraft:ghast_tear:0.png'
+  strings:
+  - '~minecraft:ghast_tear:0~'
+- name: minecraft:detector_rail:0
+  location: 'assets/item/minecraft:detector_rail:0.png'
+  strings:
+  - '~minecraft:detector_rail:0~'
+- name: gunsrpg:emerald_ammo_45acp:0
+  location: 'assets/item/gunsrpg:emerald_ammo_45acp:0.png'
+  strings:
+  - '~gunsrpg:emerald_ammo_45acp:0~'
+- name: gunsrpg:smg:0
+  location: 'assets/item/gunsrpg:smg:0.png'
+  strings:
+  - '~gunsrpg:smg:0~'
+- name: minecraft:shield:0
+  location: 'assets/item/minecraft:shield:0.png'
+  strings:
+  - '~minecraft:shield:0~'
+- name: gunsrpg:emerald_ammo_9mm:0
+  location: 'assets/item/gunsrpg:emerald_ammo_9mm:0.png'
+  strings:
+  - '~gunsrpg:emerald_ammo_9mm:0~'
+- name: minecraft:sandstone:0
+  location: 'assets/item/minecraft:sandstone:0.png'
+  strings:
+  - '~minecraft:sandstone:0~'
+- name: minecraft:sandstone:1
+  location: 'assets/item/minecraft:sandstone:1.png'
+  strings:
+  - '~minecraft:sandstone:1~'
+- name: minecraft:sandstone:2
+  location: 'assets/item/minecraft:sandstone:2.png'
+  strings:
+  - '~minecraft:sandstone:2~'
+- name: minecraft:jungle_fence_gate:0
+  location: 'assets/item/minecraft:jungle_fence_gate:0.png'
+  strings:
+  - '~minecraft:jungle_fence_gate:0~'
+- name: gunsrpg:long_barrel:0
+  location: 'assets/item/gunsrpg:long_barrel:0.png'
+  strings:
+  - '~gunsrpg:long_barrel:0~'
+- name: minecraft:comparator:0
+  location: 'assets/item/minecraft:comparator:0.png'
+  strings:
+  - '~minecraft:comparator:0~'
+- name: minecraft:repeater:0
+  location: 'assets/item/minecraft:repeater:0.png'
+  strings:
+  - '~minecraft:repeater:0~'
+- name: minecraft:painting:0
+  location: 'assets/item/minecraft:painting:0.png'
+  strings:
+  - '~minecraft:painting:0~'
+- name: minecraft:gray_shulker_box:0
+  location: 'assets/item/minecraft:gray_shulker_box:0.png'
+  strings:
+  - '~minecraft:gray_shulker_box:0~'
+- name: minecraft:iron_shovel:0
+  location: 'assets/item/minecraft:iron_shovel:0.png'
+  strings:
+  - '~minecraft:iron_shovel:0~'
+- name: minecraft:sign:0
+  location: 'assets/item/minecraft:sign:0.png'
+  strings:
+  - '~minecraft:sign:0~'
+- name: minecraft:purpur_block:0
+  location: 'assets/item/minecraft:purpur_block:0.png'
+  strings:
+  - '~minecraft:purpur_block:0~'
+- name: minecraft:stonebrick:0
+  location: 'assets/item/minecraft:stonebrick:0.png'
+  strings:
+  - '~minecraft:stonebrick:0~'
+- name: minecraft:stonebrick:1
+  location: 'assets/item/minecraft:stonebrick:1.png'
+  strings:
+  - '~minecraft:stonebrick:1~'
+- name: minecraft:stonebrick:2
+  location: 'assets/item/minecraft:stonebrick:2.png'
+  strings:
+  - '~minecraft:stonebrick:2~'
+- name: minecraft:stonebrick:3
+  location: 'assets/item/minecraft:stonebrick:3.png'
+  strings:
+  - '~minecraft:stonebrick:3~'
+- name: minecraft:glass:0
+  location: 'assets/item/minecraft:glass:0.png'
+  strings:
+  - '~minecraft:glass:0~'
+- name: minecraft:crafting_table:0
+  location: 'assets/item/minecraft:crafting_table:0.png'
+  strings:
+  - '~minecraft:crafting_table:0~'
+- name: minecraft:wooden_button:0
+  location: 'assets/item/minecraft:wooden_button:0.png'
+  strings:
+  - '~minecraft:wooden_button:0~'
+- name: minecraft:stone_stairs:0
+  location: 'assets/item/minecraft:stone_stairs:0.png'
+  strings:
+  - '~minecraft:stone_stairs:0~'
+- name: gunsrpg:sniper_rifle:0
+  location: 'assets/item/gunsrpg:sniper_rifle:0.png'
+  strings:
+  - '~gunsrpg:sniper_rifle:0~'
+- name: minecraft:fishing_rod:0
+  location: 'assets/item/minecraft:fishing_rod:0.png'
+  strings:
+  - '~minecraft:fishing_rod:0~'
+- name: minecraft:iron_leggings:0
+  location: 'assets/item/minecraft:iron_leggings:0.png'
+  strings:
+  - '~minecraft:iron_leggings:0~'
+- name: minecraft:boat:0
+  location: 'assets/item/minecraft:boat:0.png'
+  strings:
+  - '~minecraft:boat:0~'
+- name: minecraft:quartz:0
+  location: 'assets/item/minecraft:quartz:0.png'
+  strings:
+  - '~minecraft:quartz:0~'
+- name: minecraft:noteblock:0
+  location: 'assets/item/minecraft:noteblock:0.png'
+  strings:
+  - '~minecraft:noteblock:0~'
+- name: minecraft:chorus_fruit_popped:0
+  location: 'assets/item/minecraft:chorus_fruit_popped:0.png'
+  strings:
+  - '~minecraft:chorus_fruit_popped:0~'
+- name: gunsrpg:wooden_ammo_12g:0
+  location: 'assets/item/gunsrpg:wooden_ammo_12g:0.png'
+  strings:
+  - '~gunsrpg:wooden_ammo_12g:0~'
+- name: minecraft:orange_glazed_terracotta:0
+  location: 'assets/item/minecraft:orange_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:orange_glazed_terracotta:0~'
+- name: minecraft:gray_glazed_terracotta:0
+  location: 'assets/item/minecraft:gray_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:gray_glazed_terracotta:0~'
+- name: minecraft:acacia_stairs:0
+  location: 'assets/item/minecraft:acacia_stairs:0.png'
+  strings:
+  - '~minecraft:acacia_stairs:0~'
+- name: gunsrpg:wooden_stock:0
+  location: 'assets/item/gunsrpg:wooden_stock:0.png'
+  strings:
+  - '~gunsrpg:wooden_stock:0~'
+- name: gunsrpg:iron_ammo_12g:0
+  location: 'assets/item/gunsrpg:iron_ammo_12g:0.png'
+  strings:
+  - '~gunsrpg:iron_ammo_12g:0~'
+- name: minecraft:birch_door:0
+  location: 'assets/item/minecraft:birch_door:0.png'
+  strings:
+  - '~minecraft:birch_door:0~'
+- name: minecraft:chicken:0
+  location: 'assets/item/minecraft:chicken:0.png'
+  strings:
+  - '~minecraft:chicken:0~'
+- name: gunsrpg:bandage:0
+  location: 'assets/item/gunsrpg:bandage:0.png'
+  strings:
+  - '~gunsrpg:bandage:0~'
+- name: minecraft:anvil:0
+  location: 'assets/item/minecraft:anvil:0.png'
+  strings:
+  - '~minecraft:anvil:0~'
+- name: minecraft:anvil:1
+  location: 'assets/item/minecraft:anvil:1.png'
+  strings:
+  - '~minecraft:anvil:1~'
+- name: minecraft:anvil:2
+  location: 'assets/item/minecraft:anvil:2.png'
+  strings:
+  - '~minecraft:anvil:2~'
+- name: minecraft:feather:0
+  location: 'assets/item/minecraft:feather:0.png'
+  strings:
+  - '~minecraft:feather:0~'
+- name: minecraft:sapling:0
+  location: 'assets/item/minecraft:sapling:0.png'
+  strings:
+  - '~minecraft:sapling:0~'
+- name: minecraft:sapling:1
+  location: 'assets/item/minecraft:sapling:1.png'
+  strings:
+  - '~minecraft:sapling:1~'
+- name: minecraft:sapling:2
+  location: 'assets/item/minecraft:sapling:2.png'
+  strings:
+  - '~minecraft:sapling:2~'
+- name: minecraft:sapling:3
+  location: 'assets/item/minecraft:sapling:3.png'
+  strings:
+  - '~minecraft:sapling:3~'
+- name: minecraft:sapling:4
+  location: 'assets/item/minecraft:sapling:4.png'
+  strings:
+  - '~minecraft:sapling:4~'
+- name: minecraft:sapling:5
+  location: 'assets/item/minecraft:sapling:5.png'
+  strings:
+  - '~minecraft:sapling:5~'
+- name: minecraft:cooked_chicken:0
+  location: 'assets/item/minecraft:cooked_chicken:0.png'
+  strings:
+  - '~minecraft:cooked_chicken:0~'
+- name: minecraft:elytra:0
+  location: 'assets/item/minecraft:elytra:0.png'
+  strings:
+  - '~minecraft:elytra:0~'
+- name: minecraft:mushroom_stew:0
+  location: 'assets/item/minecraft:mushroom_stew:0.png'
+  strings:
+  - '~minecraft:mushroom_stew:0~'
+- name: gunsrpg:iron_hammer:0
+  location: 'assets/item/gunsrpg:iron_hammer:0.png'
+  strings:
+  - '~gunsrpg:iron_hammer:0~'
+- name: minecraft:beacon:0
+  location: 'assets/item/minecraft:beacon:0.png'
+  strings:
+  - '~minecraft:beacon:0~'
+- name: minecraft:tnt:0
+  location: 'assets/item/minecraft:tnt:0.png'
+  strings:
+  - '~minecraft:tnt:0~'
+- name: gunsrpg:death_crate:0
+  location: 'assets/item/gunsrpg:death_crate:0.png'
+  strings:
+  - '~gunsrpg:death_crate:0~'
+- name: gunsrpg:fish_and_chips:0
+  location: 'assets/item/gunsrpg:fish_and_chips:0.png'
+  strings:
+  - '~gunsrpg:fish_and_chips:0~'
+- name: minecraft:nether_brick:0
+  location: 'assets/item/minecraft:nether_brick:0.png'
+  strings:
+  - '~minecraft:nether_brick:0~'
+- name: minecraft:chorus_plant:0
+  location: 'assets/item/minecraft:chorus_plant:0.png'
+  strings:
+  - '~minecraft:chorus_plant:0~'
+- name: minecraft:skull:0
+  location: 'assets/item/minecraft:skull:0.png'
+  strings:
+  - '~minecraft:skull:0~'
+- name: minecraft:skull:1
+  location: 'assets/item/minecraft:skull:1.png'
+  strings:
+  - '~minecraft:skull:1~'
+- name: minecraft:skull:2
+  location: 'assets/item/minecraft:skull:2.png'
+  strings:
+  - '~minecraft:skull:2~'
+- name: minecraft:skull:3
+  location: 'assets/item/minecraft:skull:3.png'
+  strings:
+  - '~minecraft:skull:3~'
+- name: minecraft:skull:4
+  location: 'assets/item/minecraft:skull:4.png'
+  strings:
+  - '~minecraft:skull:4~'
+- name: minecraft:skull:5
+  location: 'assets/item/minecraft:skull:5.png'
+  strings:
+  - '~minecraft:skull:5~'
+- name: gunsrpg:smithing_table:0
+  location: 'assets/item/gunsrpg:smithing_table:0.png'
+  strings:
+  - '~gunsrpg:smithing_table:0~'
+- name: minecraft:flint_and_steel:0
+  location: 'assets/item/minecraft:flint_and_steel:0.png'
+  strings:
+  - '~minecraft:flint_and_steel:0~'
+- name: minecraft:wooden_sword:0
+  location: 'assets/item/minecraft:wooden_sword:0.png'
+  strings:
+  - '~minecraft:wooden_sword:0~'
+- name: minecraft:birch_fence_gate:0
+  location: 'assets/item/minecraft:birch_fence_gate:0.png'
+  strings:
+  - '~minecraft:birch_fence_gate:0~'
+- name: minecraft:iron_ingot:0
+  location: 'assets/item/minecraft:iron_ingot:0.png'
+  strings:
+  - '~minecraft:iron_ingot:0~'
+- name: gunsrpg:gold_ammo_9mm:0
+  location: 'assets/item/gunsrpg:gold_ammo_9mm:0.png'
+  strings:
+  - '~gunsrpg:gold_ammo_9mm:0~'
+- name: minecraft:black_glazed_terracotta:0
+  location: 'assets/item/minecraft:black_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:black_glazed_terracotta:0~'
+- name: minecraft:stained_glass_pane:0
+  location: 'assets/item/minecraft:stained_glass_pane:0.png'
+  strings:
+  - '~minecraft:stained_glass_pane:0~'
+- name: minecraft:stained_glass_pane:1
+  location: 'assets/item/minecraft:stained_glass_pane:1.png'
+  strings:
+  - '~minecraft:stained_glass_pane:1~'
+- name: minecraft:stained_glass_pane:2
+  location: 'assets/item/minecraft:stained_glass_pane:2.png'
+  strings:
+  - '~minecraft:stained_glass_pane:2~'
+- name: minecraft:stained_glass_pane:3
+  location: 'assets/item/minecraft:stained_glass_pane:3.png'
+  strings:
+  - '~minecraft:stained_glass_pane:3~'
+- name: minecraft:stained_glass_pane:4
+  location: 'assets/item/minecraft:stained_glass_pane:4.png'
+  strings:
+  - '~minecraft:stained_glass_pane:4~'
+- name: minecraft:stained_glass_pane:5
+  location: 'assets/item/minecraft:stained_glass_pane:5.png'
+  strings:
+  - '~minecraft:stained_glass_pane:5~'
+- name: minecraft:stained_glass_pane:6
+  location: 'assets/item/minecraft:stained_glass_pane:6.png'
+  strings:
+  - '~minecraft:stained_glass_pane:6~'
+- name: minecraft:stained_glass_pane:7
+  location: 'assets/item/minecraft:stained_glass_pane:7.png'
+  strings:
+  - '~minecraft:stained_glass_pane:7~'
+- name: minecraft:stained_glass_pane:8
+  location: 'assets/item/minecraft:stained_glass_pane:8.png'
+  strings:
+  - '~minecraft:stained_glass_pane:8~'
+- name: minecraft:stained_glass_pane:9
+  location: 'assets/item/minecraft:stained_glass_pane:9.png'
+  strings:
+  - '~minecraft:stained_glass_pane:9~'
+- name: minecraft:stained_glass_pane:10
+  location: 'assets/item/minecraft:stained_glass_pane:10.png'
+  strings:
+  - '~minecraft:stained_glass_pane:10~'
+- name: minecraft:stained_glass_pane:11
+  location: 'assets/item/minecraft:stained_glass_pane:11.png'
+  strings:
+  - '~minecraft:stained_glass_pane:11~'
+- name: minecraft:stained_glass_pane:12
+  location: 'assets/item/minecraft:stained_glass_pane:12.png'
+  strings:
+  - '~minecraft:stained_glass_pane:12~'
+- name: minecraft:stained_glass_pane:13
+  location: 'assets/item/minecraft:stained_glass_pane:13.png'
+  strings:
+  - '~minecraft:stained_glass_pane:13~'
+- name: minecraft:stained_glass_pane:14
+  location: 'assets/item/minecraft:stained_glass_pane:14.png'
+  strings:
+  - '~minecraft:stained_glass_pane:14~'
+- name: minecraft:stained_glass_pane:15
+  location: 'assets/item/minecraft:stained_glass_pane:15.png'
+  strings:
+  - '~minecraft:stained_glass_pane:15~'
+- name: minecraft:milk_bucket:0
+  location: 'assets/item/minecraft:milk_bucket:0.png'
+  strings:
+  - '~minecraft:milk_bucket:0~'
+- name: minecraft:jungle_door:0
+  location: 'assets/item/minecraft:jungle_door:0.png'
+  strings:
+  - '~minecraft:jungle_door:0~'
+- name: minecraft:cyan_shulker_box:0
+  location: 'assets/item/minecraft:cyan_shulker_box:0.png'
+  strings:
+  - '~minecraft:cyan_shulker_box:0~'
+- name: gunsrpg:shepherds_pie:0
+  location: 'assets/item/gunsrpg:shepherds_pie:0.png'
+  strings:
+  - '~gunsrpg:shepherds_pie:0~'
+- name: minecraft:spruce_door:0
+  location: 'assets/item/minecraft:spruce_door:0.png'
+  strings:
+  - '~minecraft:spruce_door:0~'
+- name: minecraft:carrot_on_a_stick:0
+  location: 'assets/item/minecraft:carrot_on_a_stick:0.png'
+  strings:
+  - '~minecraft:carrot_on_a_stick:0~'
+- name: gunsrpg:rabbit_creamy_soup:0
+  location: 'assets/item/gunsrpg:rabbit_creamy_soup:0.png'
+  strings:
+  - '~gunsrpg:rabbit_creamy_soup:0~'
+- name: minecraft:iron_chestplate:0
+  location: 'assets/item/minecraft:iron_chestplate:0.png'
+  strings:
+  - '~minecraft:iron_chestplate:0~'
+- name: minecraft:red_nether_brick:0
+  location: 'assets/item/minecraft:red_nether_brick:0.png'
+  strings:
+  - '~minecraft:red_nether_brick:0~'
+- name: minecraft:birch_stairs:0
+  location: 'assets/item/minecraft:birch_stairs:0.png'
+  strings:
+  - '~minecraft:birch_stairs:0~'
+- name: minecraft:yellow_flower:0
+  location: 'assets/item/minecraft:yellow_flower:0.png'
+  strings:
+  - '~minecraft:yellow_flower:0~'
+- name: minecraft:pumpkin:0
+  location: 'assets/item/minecraft:pumpkin:0.png'
+  strings:
+  - '~minecraft:pumpkin:0~'
+- name: gunsrpg:stone_hammer:0
+  location: 'assets/item/gunsrpg:stone_hammer:0.png'
+  strings:
+  - '~gunsrpg:stone_hammer:0~'
+- name: gunsrpg:grenade:0
+  location: 'assets/item/gunsrpg:grenade:0.png'
+  strings:
+  - '~gunsrpg:grenade:0~'
+- name: minecraft:cookie:0
+  location: 'assets/item/minecraft:cookie:0.png'
+  strings:
+  - '~minecraft:cookie:0~'
+- name: minecraft:golden_axe:0
+  location: 'assets/item/minecraft:golden_axe:0.png'
+  strings:
+  - '~minecraft:golden_axe:0~'
+- name: minecraft:record_chirp:0
+  location: 'assets/item/minecraft:record_chirp:0.png'
+  strings:
+  - '~minecraft:record_chirp:0~'
+- name: gunsrpg:amethyst_ore:0
+  location: 'assets/item/gunsrpg:amethyst_ore:0.png'
+  strings:
+  - '~gunsrpg:amethyst_ore:0~'
+- name: gunsrpg:painkillers:0
+  location: 'assets/item/gunsrpg:painkillers:0.png'
+  strings:
+  - '~gunsrpg:painkillers:0~'
+- name: minecraft:gunpowder:0
+  location: 'assets/item/minecraft:gunpowder:0.png'
+  strings:
+  - '~minecraft:gunpowder:0~'
+- name: minecraft:redstone_block:0
+  location: 'assets/item/minecraft:redstone_block:0.png'
+  strings:
+  - '~minecraft:redstone_block:0~'
+- name: minecraft:cyan_glazed_terracotta:0
+  location: 'assets/item/minecraft:cyan_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:cyan_glazed_terracotta:0~'
+- name: minecraft:name_tag:0
+  location: 'assets/item/minecraft:name_tag:0.png'
+  strings:
+  - '~minecraft:name_tag:0~'
+- name: minecraft:shears:0
+  location: 'assets/item/minecraft:shears:0.png'
+  strings:
+  - '~minecraft:shears:0~'
+- name: minecraft:wheat:0
+  location: 'assets/item/minecraft:wheat:0.png'
+  strings:
+  - '~minecraft:wheat:0~'
+- name: minecraft:stone_brick_stairs:0
+  location: 'assets/item/minecraft:stone_brick_stairs:0.png'
+  strings:
+  - '~minecraft:stone_brick_stairs:0~'
+- name: minecraft:stone_sword:0
+  location: 'assets/item/minecraft:stone_sword:0.png'
+  strings:
+  - '~minecraft:stone_sword:0~'
+- name: minecraft:potato:0
+  location: 'assets/item/minecraft:potato:0.png'
+  strings:
+  - '~minecraft:potato:0~'
+- name: minecraft:acacia_fence:0
+  location: 'assets/item/minecraft:acacia_fence:0.png'
+  strings:
+  - '~minecraft:acacia_fence:0~'
+- name: minecraft:chainmail_boots:0
+  location: 'assets/item/minecraft:chainmail_boots:0.png'
+  strings:
+  - '~minecraft:chainmail_boots:0~'
+- name: gunsrpg:adrenaline:0
+  location: 'assets/item/gunsrpg:adrenaline:0.png'
+  strings:
+  - '~gunsrpg:adrenaline:0~'
+- name: minecraft:bedrock:0
+  location: 'assets/item/minecraft:bedrock:0.png'
+  strings:
+  - '~minecraft:bedrock:0~'
+- name: minecraft:quartz_block:0
+  location: 'assets/item/minecraft:quartz_block:0.png'
+  strings:
+  - '~minecraft:quartz_block:0~'
+- name: minecraft:quartz_block:1
+  location: 'assets/item/minecraft:quartz_block:1.png'
+  strings:
+  - '~minecraft:quartz_block:1~'
+- name: minecraft:quartz_block:2
+  location: 'assets/item/minecraft:quartz_block:2.png'
+  strings:
+  - '~minecraft:quartz_block:2~'
+- name: minecraft:brick:0
+  location: 'assets/item/minecraft:brick:0.png'
+  strings:
+  - '~minecraft:brick:0~'
+- name: minecraft:poisonous_potato:0
+  location: 'assets/item/minecraft:poisonous_potato:0.png'
+  strings:
+  - '~minecraft:poisonous_potato:0~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:0s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:0s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:0s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:0s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:0s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:0s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:0s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:0s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:0s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:0s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:0s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:0s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:1s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:1s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:1s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:1s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:1s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:1s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:1s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:1s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:1s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:1s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:1s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:1s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:2s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:2s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:2s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:2s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:2s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:2s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:2s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:2s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:2s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:2s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:2s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:2s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:3s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:3s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:3s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:3s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:3s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:3s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:3s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:3s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:3s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:3s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:3s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:3s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:4s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:4s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:4s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:4s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:4s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:4s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:4s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:4s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:4s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:4s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:4s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:4s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:5s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:5s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:5s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:5s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:5s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:5s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:5s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:5s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:5s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:6s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:6s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:6s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:7s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:7s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:7s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:7s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:7s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:7s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:7s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:7s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:7s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:8s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:8s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:8s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:8s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:8s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:8s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:8s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:8s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:8s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:9s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:9s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:9s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:9s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:9s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:9s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:10s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:10s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:10s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:16s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:16s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:16s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:16s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:16s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:16s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:16s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:16s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:16s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:16s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:16s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:16s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:16s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:16s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:16s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:17s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:17s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:17s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:17s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:17s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:17s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:17s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:17s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:17s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:17s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:17s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:17s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:17s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:17s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:17s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:18s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:18s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:18s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:18s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:18s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:18s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:18s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:18s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:18s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:18s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:18s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:18s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:18s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:18s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:18s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:19s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:19s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:19s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:19s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:19s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:19s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:20s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:20s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:20s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:20s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:20s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:20s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:21s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:21s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:21s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:21s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:21s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:21s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:21s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:21s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:21s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:22s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:22s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:22s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:22s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:22s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:22s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:22s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:22s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:22s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:32s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:32s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:32s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:32s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:32s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:32s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:32s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:32s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:32s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:32s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:32s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:32s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:32s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:32s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:32s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:33s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:33s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:33s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:34s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:34s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:34s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:34s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:34s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:34s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:34s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:34s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:34s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:35s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:35s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:35s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:35s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:35s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:35s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:35s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:35s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:35s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:48s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:48s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:48s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:48s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:48s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:48s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:48s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:48s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:48s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:48s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:48s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:4s,id:48s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:48s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:48s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:5s,id:48s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:49s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:49s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:49s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:49s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:49s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:49s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:50s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:50s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:50s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:51s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:51s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:51s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:61s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:61s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:61s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:61s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:61s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:61s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:61s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:61s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:61s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:62s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:62s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:62s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:62s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:62s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:2s,id:62s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:62s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:62s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:3s,id:62s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:70s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:70s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:70s}]}~'
+- name: minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:71s}]}
+  location: 'assets/item/minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:71s}]}.png'
+  strings:
+  - '~minecraft:enchanted_book:0__{StoredEnchantments:[{lvl:1s,id:71s}]}~'
+- name: minecraft:end_bricks:0
+  location: 'assets/item/minecraft:end_bricks:0.png'
+  strings:
+  - '~minecraft:end_bricks:0~'
+- name: minecraft:log2:0
+  location: 'assets/item/minecraft:log2:0.png'
+  strings:
+  - '~minecraft:log2:0~'
+- name: minecraft:log2:1
+  location: 'assets/item/minecraft:log2:1.png'
+  strings:
+  - '~minecraft:log2:1~'
+- name: gunsrpg:emerald_ammo_762mm:0
+  location: 'assets/item/gunsrpg:emerald_ammo_762mm:0.png'
+  strings:
+  - '~gunsrpg:emerald_ammo_762mm:0~'
+- name: minecraft:cooked_fish:0
+  location: 'assets/item/minecraft:cooked_fish:0.png'
+  strings:
+  - '~minecraft:cooked_fish:0~'
+- name: minecraft:cooked_fish:1
+  location: 'assets/item/minecraft:cooked_fish:1.png'
+  strings:
+  - '~minecraft:cooked_fish:1~'
+- name: minecraft:diamond_helmet:0
+  location: 'assets/item/minecraft:diamond_helmet:0.png'
+  strings:
+  - '~minecraft:diamond_helmet:0~'
+- name: gunsrpg:gold_ammo_crossbow_bolt:0
+  location: 'assets/item/gunsrpg:gold_ammo_crossbow_bolt:0.png'
+  strings:
+  - '~gunsrpg:gold_ammo_crossbow_bolt:0~'
+- name: minecraft:iron_hoe:0
+  location: 'assets/item/minecraft:iron_hoe:0.png'
+  strings:
+  - '~minecraft:iron_hoe:0~'
+- name: minecraft:bow:0
+  location: 'assets/item/minecraft:bow:0.png'
+  strings:
+  - '~minecraft:bow:0~'
+- name: minecraft:snow:0
+  location: 'assets/item/minecraft:snow:0.png'
+  strings:
+  - '~minecraft:snow:0~'
+- name: minecraft:acacia_fence_gate:0
+  location: 'assets/item/minecraft:acacia_fence_gate:0.png'
+  strings:
+  - '~minecraft:acacia_fence_gate:0~'
+- name: minecraft:dark_oak_fence_gate:0
+  location: 'assets/item/minecraft:dark_oak_fence_gate:0.png'
+  strings:
+  - '~minecraft:dark_oak_fence_gate:0~'
+- name: gunsrpg:wooden_hammer:0
+  location: 'assets/item/gunsrpg:wooden_hammer:0.png'
+  strings:
+  - '~gunsrpg:wooden_hammer:0~'
+- name: minecraft:coal:0
+  location: 'assets/item/minecraft:coal:0.png'
+  strings:
+  - '~minecraft:coal:0~'
+- name: minecraft:coal:1
+  location: 'assets/item/minecraft:coal:1.png'
+  strings:
+  - '~minecraft:coal:1~'
+- name: minecraft:clay_ball:0
+  location: 'assets/item/minecraft:clay_ball:0.png'
+  strings:
+  - '~minecraft:clay_ball:0~'
+- name: minecraft:clock:0
+  location: 'assets/item/minecraft:clock:0.png'
+  strings:
+  - '~minecraft:clock:0~'
+- name: minecraft:rabbit_stew:0
+  location: 'assets/item/minecraft:rabbit_stew:0.png'
+  strings:
+  - '~minecraft:rabbit_stew:0~'
+- name: minecraft:dirt:0
+  location: 'assets/item/minecraft:dirt:0.png'
+  strings:
+  - '~minecraft:dirt:0~'
+- name: minecraft:dirt:1
+  location: 'assets/item/minecraft:dirt:1.png'
+  strings:
+  - '~minecraft:dirt:1~'
+- name: minecraft:dirt:2
+  location: 'assets/item/minecraft:dirt:2.png'
+  strings:
+  - '~minecraft:dirt:2~'
+- name: minecraft:compass:0
+  location: 'assets/item/minecraft:compass:0.png'
+  strings:
+  - '~minecraft:compass:0~'
+- name: minecraft:lime_shulker_box:0
+  location: 'assets/item/minecraft:lime_shulker_box:0.png'
+  strings:
+  - '~minecraft:lime_shulker_box:0~'
+- name: gunsrpg:massive_grenade:0
+  location: 'assets/item/gunsrpg:massive_grenade:0.png'
+  strings:
+  - '~gunsrpg:massive_grenade:0~'
+- name: minecraft:banner:15
+  location: 'assets/item/minecraft:banner:15.png'
+  strings:
+  - '~minecraft:banner:15~'
+- name: minecraft:banner:14
+  location: 'assets/item/minecraft:banner:14.png'
+  strings:
+  - '~minecraft:banner:14~'
+- name: minecraft:banner:13
+  location: 'assets/item/minecraft:banner:13.png'
+  strings:
+  - '~minecraft:banner:13~'
+- name: minecraft:banner:12
+  location: 'assets/item/minecraft:banner:12.png'
+  strings:
+  - '~minecraft:banner:12~'
+- name: minecraft:banner:11
+  location: 'assets/item/minecraft:banner:11.png'
+  strings:
+  - '~minecraft:banner:11~'
+- name: minecraft:banner:10
+  location: 'assets/item/minecraft:banner:10.png'
+  strings:
+  - '~minecraft:banner:10~'
+- name: minecraft:banner:9
+  location: 'assets/item/minecraft:banner:9.png'
+  strings:
+  - '~minecraft:banner:9~'
+- name: minecraft:banner:8
+  location: 'assets/item/minecraft:banner:8.png'
+  strings:
+  - '~minecraft:banner:8~'
+- name: minecraft:banner:7
+  location: 'assets/item/minecraft:banner:7.png'
+  strings:
+  - '~minecraft:banner:7~'
+- name: minecraft:banner:6
+  location: 'assets/item/minecraft:banner:6.png'
+  strings:
+  - '~minecraft:banner:6~'
+- name: minecraft:banner:5
+  location: 'assets/item/minecraft:banner:5.png'
+  strings:
+  - '~minecraft:banner:5~'
+- name: minecraft:banner:4
+  location: 'assets/item/minecraft:banner:4.png'
+  strings:
+  - '~minecraft:banner:4~'
+- name: minecraft:banner:3
+  location: 'assets/item/minecraft:banner:3.png'
+  strings:
+  - '~minecraft:banner:3~'
+- name: minecraft:banner:2
+  location: 'assets/item/minecraft:banner:2.png'
+  strings:
+  - '~minecraft:banner:2~'
+- name: minecraft:banner:1
+  location: 'assets/item/minecraft:banner:1.png'
+  strings:
+  - '~minecraft:banner:1~'
+- name: minecraft:banner:0
+  location: 'assets/item/minecraft:banner:0.png'
+  strings:
+  - '~minecraft:banner:0~'
+- name: gunsrpg:diamond_ammo_12g:0
+  location: 'assets/item/gunsrpg:diamond_ammo_12g:0.png'
+  strings:
+  - '~gunsrpg:diamond_ammo_12g:0~'
+- name: minecraft:assets/item_frame:0
+  location: 'assets/item/minecraft:assets/item_frame:0.png'
+  strings:
+  - '~minecraft:assets/item_frame:0~'
+- name: minecraft:speckled_melon:0
+  location: 'assets/item/minecraft:speckled_melon:0.png'
+  strings:
+  - '~minecraft:speckled_melon:0~'
+- name: minecraft:record_strad:0
+  location: 'assets/item/minecraft:record_strad:0.png'
+  strings:
+  - '~minecraft:record_strad:0~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:water"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:water"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:water"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:mundane"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:mundane"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:mundane"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:thick"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:thick"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:thick"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:awkward"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:awkward"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:awkward"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:night_vision"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:night_vision"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:night_vision"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_night_vision"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_night_vision"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_night_vision"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:invisibility"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:invisibility"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:invisibility"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_invisibility"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_invisibility"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_invisibility"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:leaping"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:leaping"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:leaping"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_leaping"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_leaping"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_leaping"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:strong_leaping"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:strong_leaping"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:strong_leaping"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:fire_resistance"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:fire_resistance"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:fire_resistance"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_fire_resistance"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_fire_resistance"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_fire_resistance"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:swiftness"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:swiftness"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:swiftness"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_swiftness"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_swiftness"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_swiftness"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:strong_swiftness"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:strong_swiftness"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:strong_swiftness"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:slowness"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:slowness"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:slowness"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_slowness"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_slowness"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_slowness"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:water_breathing"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:water_breathing"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:water_breathing"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_water_breathing"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_water_breathing"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_water_breathing"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:healing"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:healing"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:healing"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:strong_healing"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:strong_healing"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:strong_healing"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:harming"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:harming"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:harming"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:strong_harming"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:strong_harming"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:strong_harming"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:poison"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:poison"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:poison"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_poison"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_poison"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_poison"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:strong_poison"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:strong_poison"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:strong_poison"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:regeneration"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:regeneration"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:regeneration"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_regeneration"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_regeneration"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_regeneration"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:strong_regeneration"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:strong_regeneration"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:strong_regeneration"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:strength"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:strength"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:strength"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_strength"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_strength"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_strength"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:strong_strength"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:strong_strength"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:strong_strength"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:weakness"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:weakness"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:weakness"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:long_weakness"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:long_weakness"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:long_weakness"}~'
+- name: minecraft:splash_potion:0__{Potion:"minecraft:luck"}
+  location: 'assets/item/minecraft:splash_potion:0__{Potion:"minecraft:luck"}.png'
+  strings:
+  - '~minecraft:splash_potion:0__{Potion:"minecraft:luck"}~'
+- name: gunsrpg:plaster_cast:0
+  location: 'assets/item/gunsrpg:plaster_cast:0.png'
+  strings:
+  - '~gunsrpg:plaster_cast:0~'
+- name: minecraft:glass_pane:0
+  location: 'assets/item/minecraft:glass_pane:0.png'
+  strings:
+  - '~minecraft:glass_pane:0~'
+- name: minecraft:diamond_leggings:0
+  location: 'assets/item/minecraft:diamond_leggings:0.png'
+  strings:
+  - '~minecraft:diamond_leggings:0~'
+- name: minecraft:dark_oak_boat:0
+  location: 'assets/item/minecraft:dark_oak_boat:0.png'
+  strings:
+  - '~minecraft:dark_oak_boat:0~'
+- name: minecraft:arrow:0
+  location: 'assets/item/minecraft:arrow:0.png'
+  strings:
+  - '~minecraft:arrow:0~'
+- name: minecraft:prismarine:0
+  location: 'assets/item/minecraft:prismarine:0.png'
+  strings:
+  - '~minecraft:prismarine:0~'
+- name: minecraft:prismarine:1
+  location: 'assets/item/minecraft:prismarine:1.png'
+  strings:
+  - '~minecraft:prismarine:1~'
+- name: minecraft:prismarine:2
+  location: 'assets/item/minecraft:prismarine:2.png'
+  strings:
+  - '~minecraft:prismarine:2~'
+- name: minecraft:wool:0
+  location: 'assets/item/minecraft:wool:0.png'
+  strings:
+  - '~minecraft:wool:0~'
+- name: minecraft:wool:1
+  location: 'assets/item/minecraft:wool:1.png'
+  strings:
+  - '~minecraft:wool:1~'
+- name: minecraft:wool:2
+  location: 'assets/item/minecraft:wool:2.png'
+  strings:
+  - '~minecraft:wool:2~'
+- name: minecraft:wool:3
+  location: 'assets/item/minecraft:wool:3.png'
+  strings:
+  - '~minecraft:wool:3~'
+- name: minecraft:wool:4
+  location: 'assets/item/minecraft:wool:4.png'
+  strings:
+  - '~minecraft:wool:4~'
+- name: minecraft:wool:5
+  location: 'assets/item/minecraft:wool:5.png'
+  strings:
+  - '~minecraft:wool:5~'
+- name: minecraft:wool:6
+  location: 'assets/item/minecraft:wool:6.png'
+  strings:
+  - '~minecraft:wool:6~'
+- name: minecraft:wool:7
+  location: 'assets/item/minecraft:wool:7.png'
+  strings:
+  - '~minecraft:wool:7~'
+- name: minecraft:wool:8
+  location: 'assets/item/minecraft:wool:8.png'
+  strings:
+  - '~minecraft:wool:8~'
+- name: minecraft:wool:9
+  location: 'assets/item/minecraft:wool:9.png'
+  strings:
+  - '~minecraft:wool:9~'
+- name: minecraft:wool:10
+  location: 'assets/item/minecraft:wool:10.png'
+  strings:
+  - '~minecraft:wool:10~'
+- name: minecraft:wool:11
+  location: 'assets/item/minecraft:wool:11.png'
+  strings:
+  - '~minecraft:wool:11~'
+- name: minecraft:wool:12
+  location: 'assets/item/minecraft:wool:12.png'
+  strings:
+  - '~minecraft:wool:12~'
+- name: minecraft:wool:13
+  location: 'assets/item/minecraft:wool:13.png'
+  strings:
+  - '~minecraft:wool:13~'
+- name: minecraft:wool:14
+  location: 'assets/item/minecraft:wool:14.png'
+  strings:
+  - '~minecraft:wool:14~'
+- name: minecraft:wool:15
+  location: 'assets/item/minecraft:wool:15.png'
+  strings:
+  - '~minecraft:wool:15~'
+- name: minecraft:golden_sword:0
+  location: 'assets/item/minecraft:golden_sword:0.png'
+  strings:
+  - '~minecraft:golden_sword:0~'
+- name: minecraft:monster_egg:0
+  location: 'assets/item/minecraft:monster_egg:0.png'
+  strings:
+  - '~minecraft:monster_egg:0~'
+- name: minecraft:monster_egg:1
+  location: 'assets/item/minecraft:monster_egg:1.png'
+  strings:
+  - '~minecraft:monster_egg:1~'
+- name: minecraft:monster_egg:2
+  location: 'assets/item/minecraft:monster_egg:2.png'
+  strings:
+  - '~minecraft:monster_egg:2~'
+- name: minecraft:monster_egg:3
+  location: 'assets/item/minecraft:monster_egg:3.png'
+  strings:
+  - '~minecraft:monster_egg:3~'
+- name: minecraft:monster_egg:4
+  location: 'assets/item/minecraft:monster_egg:4.png'
+  strings:
+  - '~minecraft:monster_egg:4~'
+- name: minecraft:monster_egg:5
+  location: 'assets/item/minecraft:monster_egg:5.png'
+  strings:
+  - '~minecraft:monster_egg:5~'
+- name: minecraft:wooden_door:0
+  location: 'assets/item/minecraft:wooden_door:0.png'
+  strings:
+  - '~minecraft:wooden_door:0~'
+- name: gunsrpg:chocolate_glazed_apple_pie:0
+  location: 'assets/item/gunsrpg:chocolate_glazed_apple_pie:0.png'
+  strings:
+  - '~gunsrpg:chocolate_glazed_apple_pie:0~'
+- name: gunsrpg:impact_grenade:0
+  location: 'assets/item/gunsrpg:impact_grenade:0.png'
+  strings:
+  - '~gunsrpg:impact_grenade:0~'
+- name: minecraft:green_shulker_box:0
+  location: 'assets/item/minecraft:green_shulker_box:0.png'
+  strings:
+  - '~minecraft:green_shulker_box:0~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:water"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:water"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:water"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:mundane"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:mundane"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:mundane"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:thick"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:thick"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:thick"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:awkward"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:awkward"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:awkward"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:night_vision"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:night_vision"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:night_vision"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_night_vision"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_night_vision"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_night_vision"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:invisibility"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:invisibility"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:invisibility"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_invisibility"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_invisibility"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_invisibility"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:leaping"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:leaping"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:leaping"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_leaping"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_leaping"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_leaping"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:strong_leaping"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:strong_leaping"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:strong_leaping"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:fire_resistance"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:fire_resistance"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:fire_resistance"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_fire_resistance"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_fire_resistance"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_fire_resistance"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:swiftness"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:swiftness"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:swiftness"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_swiftness"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_swiftness"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_swiftness"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:strong_swiftness"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:strong_swiftness"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:strong_swiftness"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:slowness"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:slowness"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:slowness"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_slowness"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_slowness"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_slowness"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:water_breathing"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:water_breathing"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:water_breathing"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_water_breathing"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_water_breathing"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_water_breathing"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:healing"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:healing"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:healing"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:strong_healing"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:strong_healing"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:strong_healing"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:harming"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:harming"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:harming"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:strong_harming"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:strong_harming"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:strong_harming"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:poison"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:poison"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:poison"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_poison"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_poison"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_poison"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:strong_poison"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:strong_poison"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:strong_poison"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:regeneration"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:regeneration"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:regeneration"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_regeneration"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_regeneration"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_regeneration"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:strong_regeneration"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:strong_regeneration"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:strong_regeneration"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:strength"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:strength"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:strength"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_strength"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_strength"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_strength"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:strong_strength"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:strong_strength"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:strong_strength"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:weakness"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:weakness"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:weakness"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:long_weakness"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:long_weakness"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:long_weakness"}~'
+- name: minecraft:lingering_potion:0__{Potion:"minecraft:luck"}
+  location: 'assets/item/minecraft:lingering_potion:0__{Potion:"minecraft:luck"}.png'
+  strings:
+  - '~minecraft:lingering_potion:0__{Potion:"minecraft:luck"}~'
+- name: minecraft:clay:0
+  location: 'assets/item/minecraft:clay:0.png'
+  strings:
+  - '~minecraft:clay:0~'
+- name: minecraft:golden_pickaxe:0
+  location: 'assets/item/minecraft:golden_pickaxe:0.png'
+  strings:
+  - '~minecraft:golden_pickaxe:0~'
+- name: minecraft:ice:0
+  location: 'assets/item/minecraft:ice:0.png'
+  strings:
+  - '~minecraft:ice:0~'
+- name: minecraft:fence_gate:0
+  location: 'assets/item/minecraft:fence_gate:0.png'
+  strings:
+  - '~minecraft:fence_gate:0~'
+- name: gunsrpg:meaty_stew_xxl:0
+  location: 'assets/item/gunsrpg:meaty_stew_xxl:0.png'
+  strings:
+  - '~gunsrpg:meaty_stew_xxl:0~'
+- name: minecraft:dye:0
+  location: 'assets/item/minecraft:dye:0.png'
+  strings:
+  - '~minecraft:dye:0~'
+- name: minecraft:dye:1
+  location: 'assets/item/minecraft:dye:1.png'
+  strings:
+  - '~minecraft:dye:1~'
+- name: minecraft:dye:2
+  location: 'assets/item/minecraft:dye:2.png'
+  strings:
+  - '~minecraft:dye:2~'
+- name: minecraft:dye:3
+  location: 'assets/item/minecraft:dye:3.png'
+  strings:
+  - '~minecraft:dye:3~'
+- name: minecraft:dye:4
+  location: 'assets/item/minecraft:dye:4.png'
+  strings:
+  - '~minecraft:dye:4~'
+- name: minecraft:dye:5
+  location: 'assets/item/minecraft:dye:5.png'
+  strings:
+  - '~minecraft:dye:5~'
+- name: minecraft:dye:6
+  location: 'assets/item/minecraft:dye:6.png'
+  strings:
+  - '~minecraft:dye:6~'
+- name: minecraft:dye:7
+  location: 'assets/item/minecraft:dye:7.png'
+  strings:
+  - '~minecraft:dye:7~'
+- name: minecraft:dye:8
+  location: 'assets/item/minecraft:dye:8.png'
+  strings:
+  - '~minecraft:dye:8~'
+- name: minecraft:dye:9
+  location: 'assets/item/minecraft:dye:9.png'
+  strings:
+  - '~minecraft:dye:9~'
+- name: minecraft:dye:10
+  location: 'assets/item/minecraft:dye:10.png'
+  strings:
+  - '~minecraft:dye:10~'
+- name: minecraft:dye:11
+  location: 'assets/item/minecraft:dye:11.png'
+  strings:
+  - '~minecraft:dye:11~'
+- name: minecraft:dye:12
+  location: 'assets/item/minecraft:dye:12.png'
+  strings:
+  - '~minecraft:dye:12~'
+- name: minecraft:dye:13
+  location: 'assets/item/minecraft:dye:13.png'
+  strings:
+  - '~minecraft:dye:13~'
+- name: minecraft:dye:14
+  location: 'assets/item/minecraft:dye:14.png'
+  strings:
+  - '~minecraft:dye:14~'
+- name: minecraft:dye:15
+  location: 'assets/item/minecraft:dye:15.png'
+  strings:
+  - '~minecraft:dye:15~'
+- name: minecraft:porkchop:0
+  location: 'assets/item/minecraft:porkchop:0.png'
+  strings:
+  - '~minecraft:porkchop:0~'
+- name: minecraft:melon_seeds:0
+  location: 'assets/item/minecraft:melon_seeds:0.png'
+  strings:
+  - '~minecraft:melon_seeds:0~'
+- name: minecraft:ladder:0
+  location: 'assets/item/minecraft:ladder:0.png'
+  strings:
+  - '~minecraft:ladder:0~'
+- name: minecraft:fence:0
+  location: 'assets/item/minecraft:fence:0.png'
+  strings:
+  - '~minecraft:fence:0~'
+- name: gunsrpg:small_bullet_casing:0
+  location: 'assets/item/gunsrpg:small_bullet_casing:0.png'
+  strings:
+  - '~gunsrpg:small_bullet_casing:0~'
+- name: minecraft:record_far:0
+  location: 'assets/item/minecraft:record_far:0.png'
+  strings:
+  - '~minecraft:record_far:0~'
+- name: minecraft:redstone_torch:0
+  location: 'assets/item/minecraft:redstone_torch:0.png'
+  strings:
+  - '~minecraft:redstone_torch:0~'
+- name: minecraft:red_sandstone_stairs:0
+  location: 'assets/item/minecraft:red_sandstone_stairs:0.png'
+  strings:
+  - '~minecraft:red_sandstone_stairs:0~'
+- name: minecraft:iron_horse_armor:0
+  location: 'assets/item/minecraft:iron_horse_armor:0.png'
+  strings:
+  - '~minecraft:iron_horse_armor:0~'
+- name: minecraft:furnace_minecart:0
+  location: 'assets/item/minecraft:furnace_minecart:0.png'
+  strings:
+  - '~minecraft:furnace_minecart:0~'
+- name: minecraft:wooden_pressure_plate:0
+  location: 'assets/item/minecraft:wooden_pressure_plate:0.png'
+  strings:
+  - '~minecraft:wooden_pressure_plate:0~'
+- name: gunsrpg:pistol:0
+  location: 'assets/item/gunsrpg:pistol:0.png'
+  strings:
+  - '~gunsrpg:pistol:0~'
+- name: minecraft:beetroot:0
+  location: 'assets/item/minecraft:beetroot:0.png'
+  strings:
+  - '~minecraft:beetroot:0~'
+- name: minecraft:record_wait:0
+  location: 'assets/item/minecraft:record_wait:0.png'
+  strings:
+  - '~minecraft:record_wait:0~'
+- name: minecraft:yellow_glazed_terracotta:0
+  location: 'assets/item/minecraft:yellow_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:yellow_glazed_terracotta:0~'
+- name: gunsrpg:stereoids:0
+  location: 'assets/item/gunsrpg:stereoids:0.png'
+  strings:
+  - '~gunsrpg:stereoids:0~'
+- name: minecraft:diamond_boots:0
+  location: 'assets/item/minecraft:diamond_boots:0.png'
+  strings:
+  - '~minecraft:diamond_boots:0~'
+- name: minecraft:reeds:0
+  location: 'assets/item/minecraft:reeds:0.png'
+  strings:
+  - '~minecraft:reeds:0~'
+- name: minecraft:cake:0
+  location: 'assets/item/minecraft:cake:0.png'
+  strings:
+  - '~minecraft:cake:0~'
+- name: minecraft:blue_shulker_box:0
+  location: 'assets/item/minecraft:blue_shulker_box:0.png'
+  strings:
+  - '~minecraft:blue_shulker_box:0~'
+- name: minecraft:prismarine_crystals:0
+  location: 'assets/item/minecraft:prismarine_crystals:0.png'
+  strings:
+  - '~minecraft:prismarine_crystals:0~'
+- name: gunsrpg:iron_ammo_crossbow_bolt:0
+  location: 'assets/item/gunsrpg:iron_ammo_crossbow_bolt:0.png'
+  strings:
+  - '~gunsrpg:iron_ammo_crossbow_bolt:0~'
+- name: gunsrpg:egg_salad:0
+  location: 'assets/item/gunsrpg:egg_salad:0.png'
+  strings:
+  - '~gunsrpg:egg_salad:0~'
+- name: gunsrpg:amethyst_ammo_crossbow_bolt:0
+  location: 'assets/item/gunsrpg:amethyst_ammo_crossbow_bolt:0.png'
+  strings:
+  - '~gunsrpg:amethyst_ammo_crossbow_bolt:0~'
+- name: gunsrpg:gold_ammo_12g:0
+  location: 'assets/item/gunsrpg:gold_ammo_12g:0.png'
+  strings:
+  - '~gunsrpg:gold_ammo_12g:0~'
+- name: minecraft:stick:0
+  location: 'assets/item/minecraft:stick:0.png'
+  strings:
+  - '~minecraft:stick:0~'
+- name: minecraft:chainmail_helmet:0
+  location: 'assets/item/minecraft:chainmail_helmet:0.png'
+  strings:
+  - '~minecraft:chainmail_helmet:0~'
+- name: minecraft:water_bucket:0
+  location: 'assets/item/minecraft:water_bucket:0.png'
+  strings:
+  - '~minecraft:water_bucket:0~'
+- name: minecraft:leather_boots:0
+  location: 'assets/item/minecraft:leather_boots:0.png'
+  strings:
+  - '~minecraft:leather_boots:0~'
+- name: minecraft:mycelium:0
+  location: 'assets/item/minecraft:mycelium:0.png'
+  strings:
+  - '~minecraft:mycelium:0~'
+- name: minecraft:dark_oak_stairs:0
+  location: 'assets/item/minecraft:dark_oak_stairs:0.png'
+  strings:
+  - '~minecraft:dark_oak_stairs:0~'
+- name: minecraft:brewing_stand:0
+  location: 'assets/item/minecraft:brewing_stand:0.png'
+  strings:
+  - '~minecraft:brewing_stand:0~'
+- name: minecraft:netherrack:0
+  location: 'assets/item/minecraft:netherrack:0.png'
+  strings:
+  - '~minecraft:netherrack:0~'
+- name: minecraft:armor_stand:0
+  location: 'assets/item/minecraft:armor_stand:0.png'
+  strings:
+  - '~minecraft:armor_stand:0~'
+- name: minecraft:deadbush:0
+  location: 'assets/item/minecraft:deadbush:0.png'
+  strings:
+  - '~minecraft:deadbush:0~'
+- name: minecraft:carpet:0
+  location: 'assets/item/minecraft:carpet:0.png'
+  strings:
+  - '~minecraft:carpet:0~'
+- name: minecraft:carpet:1
+  location: 'assets/item/minecraft:carpet:1.png'
+  strings:
+  - '~minecraft:carpet:1~'
+- name: minecraft:carpet:2
+  location: 'assets/item/minecraft:carpet:2.png'
+  strings:
+  - '~minecraft:carpet:2~'
+- name: minecraft:carpet:3
+  location: 'assets/item/minecraft:carpet:3.png'
+  strings:
+  - '~minecraft:carpet:3~'
+- name: minecraft:carpet:4
+  location: 'assets/item/minecraft:carpet:4.png'
+  strings:
+  - '~minecraft:carpet:4~'
+- name: minecraft:carpet:5
+  location: 'assets/item/minecraft:carpet:5.png'
+  strings:
+  - '~minecraft:carpet:5~'
+- name: minecraft:carpet:6
+  location: 'assets/item/minecraft:carpet:6.png'
+  strings:
+  - '~minecraft:carpet:6~'
+- name: minecraft:carpet:7
+  location: 'assets/item/minecraft:carpet:7.png'
+  strings:
+  - '~minecraft:carpet:7~'
+- name: minecraft:carpet:8
+  location: 'assets/item/minecraft:carpet:8.png'
+  strings:
+  - '~minecraft:carpet:8~'
+- name: minecraft:carpet:9
+  location: 'assets/item/minecraft:carpet:9.png'
+  strings:
+  - '~minecraft:carpet:9~'
+- name: minecraft:carpet:10
+  location: 'assets/item/minecraft:carpet:10.png'
+  strings:
+  - '~minecraft:carpet:10~'
+- name: minecraft:carpet:11
+  location: 'assets/item/minecraft:carpet:11.png'
+  strings:
+  - '~minecraft:carpet:11~'
+- name: minecraft:carpet:12
+  location: 'assets/item/minecraft:carpet:12.png'
+  strings:
+  - '~minecraft:carpet:12~'
+- name: minecraft:carpet:13
+  location: 'assets/item/minecraft:carpet:13.png'
+  strings:
+  - '~minecraft:carpet:13~'
+- name: minecraft:carpet:14
+  location: 'assets/item/minecraft:carpet:14.png'
+  strings:
+  - '~minecraft:carpet:14~'
+- name: minecraft:carpet:15
+  location: 'assets/item/minecraft:carpet:15.png'
+  strings:
+  - '~minecraft:carpet:15~'
+- name: minecraft:leather_leggings:0
+  location: 'assets/item/minecraft:leather_leggings:0.png'
+  strings:
+  - '~minecraft:leather_leggings:0~'
+- name: gunsrpg:iron_ore_chunk:0
+  location: 'assets/item/gunsrpg:iron_ore_chunk:0.png'
+  strings:
+  - '~gunsrpg:iron_ore_chunk:0~'
+- name: minecraft:emerald_ore:0
+  location: 'assets/item/minecraft:emerald_ore:0.png'
+  strings:
+  - '~minecraft:emerald_ore:0~'
+- name: minecraft:stone_axe:0
+  location: 'assets/item/minecraft:stone_axe:0.png'
+  strings:
+  - '~minecraft:stone_axe:0~'
+- name: minecraft:double_plant:0
+  location: 'assets/item/minecraft:double_plant:0.png'
+  strings:
+  - '~minecraft:double_plant:0~'
+- name: minecraft:double_plant:1
+  location: 'assets/item/minecraft:double_plant:1.png'
+  strings:
+  - '~minecraft:double_plant:1~'
+- name: minecraft:double_plant:2
+  location: 'assets/item/minecraft:double_plant:2.png'
+  strings:
+  - '~minecraft:double_plant:2~'
+- name: minecraft:double_plant:3
+  location: 'assets/item/minecraft:double_plant:3.png'
+  strings:
+  - '~minecraft:double_plant:3~'
+- name: minecraft:double_plant:4
+  location: 'assets/item/minecraft:double_plant:4.png'
+  strings:
+  - '~minecraft:double_plant:4~'
+- name: minecraft:double_plant:5
+  location: 'assets/item/minecraft:double_plant:5.png'
+  strings:
+  - '~minecraft:double_plant:5~'
+- name: minecraft:packed_ice:0
+  location: 'assets/item/minecraft:packed_ice:0.png'
+  strings:
+  - '~minecraft:packed_ice:0~'
+- name: minecraft:golden_carrot:0
+  location: 'assets/item/minecraft:golden_carrot:0.png'
+  strings:
+  - '~minecraft:golden_carrot:0~'
+- name: minecraft:stone:0
+  location: 'assets/item/minecraft:stone:0.png'
+  strings:
+  - '~minecraft:stone:0~'
+- name: minecraft:stone:1
+  location: 'assets/item/minecraft:stone:1.png'
+  strings:
+  - '~minecraft:stone:1~'
+- name: minecraft:stone:2
+  location: 'assets/item/minecraft:stone:2.png'
+  strings:
+  - '~minecraft:stone:2~'
+- name: minecraft:stone:3
+  location: 'assets/item/minecraft:stone:3.png'
+  strings:
+  - '~minecraft:stone:3~'
+- name: minecraft:stone:4
+  location: 'assets/item/minecraft:stone:4.png'
+  strings:
+  - '~minecraft:stone:4~'
+- name: minecraft:stone:5
+  location: 'assets/item/minecraft:stone:5.png'
+  strings:
+  - '~minecraft:stone:5~'
+- name: minecraft:stone:6
+  location: 'assets/item/minecraft:stone:6.png'
+  strings:
+  - '~minecraft:stone:6~'
+- name: minecraft:diamond_block:0
+  location: 'assets/item/minecraft:diamond_block:0.png'
+  strings:
+  - '~minecraft:diamond_block:0~'
+- name: minecraft:apple:0
+  location: 'assets/item/minecraft:apple:0.png'
+  strings:
+  - '~minecraft:apple:0~'
+- name: minecraft:magenta_glazed_terracotta:0
+  location: 'assets/item/minecraft:magenta_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:magenta_glazed_terracotta:0~'
+- name: minecraft:spider_eye:0
+  location: 'assets/item/minecraft:spider_eye:0.png'
+  strings:
+  - '~minecraft:spider_eye:0~'
+- name: minecraft:book:0
+  location: 'assets/item/minecraft:book:0.png'
+  strings:
+  - '~minecraft:book:0~'
+- name: minecraft:glowstone:0
+  location: 'assets/item/minecraft:glowstone:0.png'
+  strings:
+  - '~minecraft:glowstone:0~'
+- name: minecraft:wooden_slab:0
+  location: 'assets/item/minecraft:wooden_slab:0.png'
+  strings:
+  - '~minecraft:wooden_slab:0~'
+- name: minecraft:wooden_slab:1
+  location: 'assets/item/minecraft:wooden_slab:1.png'
+  strings:
+  - '~minecraft:wooden_slab:1~'
+- name: minecraft:wooden_slab:2
+  location: 'assets/item/minecraft:wooden_slab:2.png'
+  strings:
+  - '~minecraft:wooden_slab:2~'
+- name: minecraft:wooden_slab:3
+  location: 'assets/item/minecraft:wooden_slab:3.png'
+  strings:
+  - '~minecraft:wooden_slab:3~'
+- name: minecraft:wooden_slab:4
+  location: 'assets/item/minecraft:wooden_slab:4.png'
+  strings:
+  - '~minecraft:wooden_slab:4~'
+- name: minecraft:wooden_slab:5
+  location: 'assets/item/minecraft:wooden_slab:5.png'
+  strings:
+  - '~minecraft:wooden_slab:5~'
+- name: gunsrpg:stone_ammo_12g:0
+  location: 'assets/item/gunsrpg:stone_ammo_12g:0.png'
+  strings:
+  - '~gunsrpg:stone_ammo_12g:0~'
+- name: minecraft:pumpkin_seeds:0
+  location: 'assets/item/minecraft:pumpkin_seeds:0.png'
+  strings:
+  - '~minecraft:pumpkin_seeds:0~'
+- name: minecraft:wooden_shovel:0
+  location: 'assets/item/minecraft:wooden_shovel:0.png'
+  strings:
+  - '~minecraft:wooden_shovel:0~'
+- name: minecraft:chorus_fruit:0
+  location: 'assets/item/minecraft:chorus_fruit:0.png'
+  strings:
+  - '~minecraft:chorus_fruit:0~'
+- name: minecraft:nether_brick_fence:0
+  location: 'assets/item/minecraft:nether_brick_fence:0.png'
+  strings:
+  - '~minecraft:nether_brick_fence:0~'
+- name: minecraft:magma_cream:0
+  location: 'assets/item/minecraft:magma_cream:0.png'
+  strings:
+  - '~minecraft:magma_cream:0~'
+- name: gunsrpg:gold_ore_chunk:0
+  location: 'assets/item/gunsrpg:gold_ore_chunk:0.png'
+  strings:
+  - '~gunsrpg:gold_ore_chunk:0~'
+- name: minecraft:firework_charge:0
+  location: 'assets/item/minecraft:firework_charge:0.png'
+  strings:
+  - '~minecraft:firework_charge:0~'
+- name: gunsrpg:shotgun:0
+  location: 'assets/item/gunsrpg:shotgun:0.png'
+  strings:
+  - '~gunsrpg:shotgun:0~'
+- name: minecraft:silver_glazed_terracotta:0
+  location: 'assets/item/minecraft:silver_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:silver_glazed_terracotta:0~'
+- name: minecraft:cooked_mutton:0
+  location: 'assets/item/minecraft:cooked_mutton:0.png'
+  strings:
+  - '~minecraft:cooked_mutton:0~'
+- name: minecraft:cauldron:0
+  location: 'assets/item/minecraft:cauldron:0.png'
+  strings:
+  - '~minecraft:cauldron:0~'
+- name: minecraft:bookshelf:0
+  location: 'assets/item/minecraft:bookshelf:0.png'
+  strings:
+  - '~minecraft:bookshelf:0~'
+- name: minecraft:chainmail_chestplate:0
+  location: 'assets/item/minecraft:chainmail_chestplate:0.png'
+  strings:
+  - '~minecraft:chainmail_chestplate:0~'
+- name: minecraft:bone:0
+  location: 'assets/item/minecraft:bone:0.png'
+  strings:
+  - '~minecraft:bone:0~'
+- name: minecraft:fish:0
+  location: 'assets/item/minecraft:fish:0.png'
+  strings:
+  - '~minecraft:fish:0~'
+- name: minecraft:fish:1
+  location: 'assets/item/minecraft:fish:1.png'
+  strings:
+  - '~minecraft:fish:1~'
+- name: minecraft:fish:2
+  location: 'assets/item/minecraft:fish:2.png'
+  strings:
+  - '~minecraft:fish:2~'
+- name: minecraft:fish:3
+  location: 'assets/item/minecraft:fish:3.png'
+  strings:
+  - '~minecraft:fish:3~'
+- name: minecraft:lapis_block:0
+  location: 'assets/item/minecraft:lapis_block:0.png'
+  strings:
+  - '~minecraft:lapis_block:0~'
+- name: minecraft:waterlily:0
+  location: 'assets/item/minecraft:waterlily:0.png'
+  strings:
+  - '~minecraft:waterlily:0~'
+- name: minecraft:diamond_shovel:0
+  location: 'assets/item/minecraft:diamond_shovel:0.png'
+  strings:
+  - '~minecraft:diamond_shovel:0~'
+- name: gunsrpg:antidotum_pills:0
+  location: 'assets/item/gunsrpg:antidotum_pills:0.png'
+  strings:
+  - '~gunsrpg:antidotum_pills:0~'
+- name: gunsrpg:amethyst_ammo_9mm:0
+  location: 'assets/item/gunsrpg:amethyst_ammo_9mm:0.png'
+  strings:
+  - '~gunsrpg:amethyst_ammo_9mm:0~'
+- name: minecraft:end_portal_frame:0
+  location: 'assets/item/minecraft:end_portal_frame:0.png'
+  strings:
+  - '~minecraft:end_portal_frame:0~'
+- name: minecraft:magenta_shulker_box:0
+  location: 'assets/item/minecraft:magenta_shulker_box:0.png'
+  strings:
+  - '~minecraft:magenta_shulker_box:0~'
+- name: minecraft:leaves:0
+  location: 'assets/item/minecraft:leaves:0.png'
+  strings:
+  - '~minecraft:leaves:0~'
+- name: minecraft:leaves:1
+  location: 'assets/item/minecraft:leaves:1.png'
+  strings:
+  - '~minecraft:leaves:1~'
+- name: minecraft:leaves:2
+  location: 'assets/item/minecraft:leaves:2.png'
+  strings:
+  - '~minecraft:leaves:2~'
+- name: minecraft:leaves:3
+  location: 'assets/item/minecraft:leaves:3.png'
+  strings:
+  - '~minecraft:leaves:3~'
+- name: minecraft:hay_block:0
+  location: 'assets/item/minecraft:hay_block:0.png'
+  strings:
+  - '~minecraft:hay_block:0~'
+- name: minecraft:nether_wart:0
+  location: 'assets/item/minecraft:nether_wart:0.png'
+  strings:
+  - '~minecraft:nether_wart:0~'
+- name: minecraft:iron_axe:0
+  location: 'assets/item/minecraft:iron_axe:0.png'
+  strings:
+  - '~minecraft:iron_axe:0~'
+- name: minecraft:purple_shulker_box:0
+  location: 'assets/item/minecraft:purple_shulker_box:0.png'
+  strings:
+  - '~minecraft:purple_shulker_box:0~'
+- name: minecraft:ender_eye:0
+  location: 'assets/item/minecraft:ender_eye:0.png'
+  strings:
+  - '~minecraft:ender_eye:0~'
+- name: minecraft:sandstone_stairs:0
+  location: 'assets/item/minecraft:sandstone_stairs:0.png'
+  strings:
+  - '~minecraft:sandstone_stairs:0~'
+- name: minecraft:cactus:0
+  location: 'assets/item/minecraft:cactus:0.png'
+  strings:
+  - '~minecraft:cactus:0~'
+- name: minecraft:jukebox:0
+  location: 'assets/item/minecraft:jukebox:0.png'
+  strings:
+  - '~minecraft:jukebox:0~'
+- name: minecraft:stone_slab2:0
+  location: 'assets/item/minecraft:stone_slab2:0.png'
+  strings:
+  - '~minecraft:stone_slab2:0~'
+- name: gunsrpg:blaze_lump:0
+  location: 'assets/item/gunsrpg:blaze_lump:0.png'
+  strings:
+  - '~gunsrpg:blaze_lump:0~'
+- name: gunsrpg:assault_rifle:0
+  location: 'assets/item/gunsrpg:assault_rifle:0.png'
+  strings:
+  - '~gunsrpg:assault_rifle:0~'
+- name: minecraft:minecart:0
+  location: 'assets/item/minecraft:minecart:0.png'
+  strings:
+  - '~minecraft:minecart:0~'
+- name: minecraft:chest_minecart:0
+  location: 'assets/item/minecraft:chest_minecart:0.png'
+  strings:
+  - '~minecraft:chest_minecart:0~'
+- name: minecraft:record_cat:0
+  location: 'assets/item/minecraft:record_cat:0.png'
+  strings:
+  - '~minecraft:record_cat:0~'
+- name: minecraft:sea_lantern:0
+  location: 'assets/item/minecraft:sea_lantern:0.png'
+  strings:
+  - '~minecraft:sea_lantern:0~'
+- name: minecraft:light_blue_shulker_box:0
+  location: 'assets/item/minecraft:light_blue_shulker_box:0.png'
+  strings:
+  - '~minecraft:light_blue_shulker_box:0~'
+- name: gunsrpg:magazine:0
+  location: 'assets/item/gunsrpg:magazine:0.png'
+  strings:
+  - '~gunsrpg:magazine:0~'
+- name: minecraft:chest:0
+  location: 'assets/item/minecraft:chest:0.png'
+  strings:
+  - '~minecraft:chest:0~'
+- name: minecraft:rail:0
+  location: 'assets/item/minecraft:rail:0.png'
+  strings:
+  - '~minecraft:rail:0~'
+- name: gunsrpg:wooden_ammo_556mm:0
+  location: 'assets/item/gunsrpg:wooden_ammo_556mm:0.png'
+  strings:
+  - '~gunsrpg:wooden_ammo_556mm:0~'
+- name: minecraft:fermented_spider_eye:0
+  location: 'assets/item/minecraft:fermented_spider_eye:0.png'
+  strings:
+  - '~minecraft:fermented_spider_eye:0~'
+- name: minecraft:obsidian:0
+  location: 'assets/item/minecraft:obsidian:0.png'
+  strings:
+  - '~minecraft:obsidian:0~'
+- name: minecraft:iron_ore:0
+  location: 'assets/item/minecraft:iron_ore:0.png'
+  strings:
+  - '~minecraft:iron_ore:0~'
+- name: minecraft:diamond_sword:0
+  location: 'assets/item/minecraft:diamond_sword:0.png'
+  strings:
+  - '~minecraft:diamond_sword:0~'
+- name: minecraft:stone_hoe:0
+  location: 'assets/item/minecraft:stone_hoe:0.png'
+  strings:
+  - '~minecraft:stone_hoe:0~'
+- name: minecraft:diamond_hoe:0
+  location: 'assets/item/minecraft:diamond_hoe:0.png'
+  strings:
+  - '~minecraft:diamond_hoe:0~'
+- name: minecraft:jungle_boat:0
+  location: 'assets/item/minecraft:jungle_boat:0.png'
+  strings:
+  - '~minecraft:jungle_boat:0~'
+- name: minecraft:pumpkin_pie:0
+  location: 'assets/item/minecraft:pumpkin_pie:0.png'
+  strings:
+  - '~minecraft:pumpkin_pie:0~'
+- name: minecraft:snow_layer:0
+  location: 'assets/item/minecraft:snow_layer:0.png'
+  strings:
+  - '~minecraft:snow_layer:0~'
+- name: minecraft:web:0
+  location: 'assets/item/minecraft:web:0.png'
+  strings:
+  - '~minecraft:web:0~'
+- name: minecraft:vine:0
+  location: 'assets/item/minecraft:vine:0.png'
+  strings:
+  - '~minecraft:vine:0~'
+- name: minecraft:jungle_fence:0
+  location: 'assets/item/minecraft:jungle_fence:0.png'
+  strings:
+  - '~minecraft:jungle_fence:0~'
+- name: minecraft:dark_oak_fence:0
+  location: 'assets/item/minecraft:dark_oak_fence:0.png'
+  strings:
+  - '~minecraft:dark_oak_fence:0~'
+- name: minecraft:golden_shovel:0
+  location: 'assets/item/minecraft:golden_shovel:0.png'
+  strings:
+  - '~minecraft:golden_shovel:0~'
+- name: minecraft:light_weighted_pressure_plate:0
+  location: 'assets/item/minecraft:light_weighted_pressure_plate:0.png'
+  strings:
+  - '~minecraft:light_weighted_pressure_plate:0~'
+- name: minecraft:chorus_flower:0
+  location: 'assets/item/minecraft:chorus_flower:0.png'
+  strings:
+  - '~minecraft:chorus_flower:0~'
+- name: minecraft:glass_bottle:0
+  location: 'assets/item/minecraft:glass_bottle:0.png'
+  strings:
+  - '~minecraft:glass_bottle:0~'
+- name: minecraft:shulker_shell:0
+  location: 'assets/item/minecraft:shulker_shell:0.png'
+  strings:
+  - '~minecraft:shulker_shell:0~'
+- name: minecraft:string:0
+  location: 'assets/item/minecraft:string:0.png'
+  strings:
+  - '~minecraft:string:0~'
+- name: minecraft:iron_door:0
+  location: 'assets/item/minecraft:iron_door:0.png'
+  strings:
+  - '~minecraft:iron_door:0~'
+- name: gunsrpg:stone_ammo_crossbow_bolt:0
+  location: 'assets/item/gunsrpg:stone_ammo_crossbow_bolt:0.png'
+  strings:
+  - '~gunsrpg:stone_ammo_crossbow_bolt:0~'
+- name: minecraft:cooked_beef:0
+  location: 'assets/item/minecraft:cooked_beef:0.png'
+  strings:
+  - '~minecraft:cooked_beef:0~'
+- name: minecraft:hopper_minecart:0
+  location: 'assets/item/minecraft:hopper_minecart:0.png'
+  strings:
+  - '~minecraft:hopper_minecart:0~'
+- name: minecraft:saddle:0
+  location: 'assets/item/minecraft:saddle:0.png'
+  strings:
+  - '~minecraft:saddle:0~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:bat"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:bat"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:bat"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:blaze"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:blaze"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:blaze"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:cave_spider"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:cave_spider"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:cave_spider"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:chicken"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:chicken"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:chicken"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:cow"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:cow"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:cow"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:creeper"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:creeper"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:creeper"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:donkey"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:donkey"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:donkey"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:elder_guardian"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:elder_guardian"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:elder_guardian"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:enderman"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:enderman"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:enderman"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:endermite"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:endermite"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:endermite"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:evocation_illager"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:evocation_illager"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:evocation_illager"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:ghast"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:ghast"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:ghast"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:guardian"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:guardian"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:guardian"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:horse"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:horse"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:horse"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:husk"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:husk"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:husk"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:llama"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:llama"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:llama"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:magma_cube"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:magma_cube"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:magma_cube"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:mooshroom"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:mooshroom"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:mooshroom"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:mule"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:mule"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:mule"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:ocelot"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:ocelot"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:ocelot"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:parrot"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:parrot"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:parrot"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:pig"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:pig"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:pig"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:polar_bear"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:polar_bear"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:polar_bear"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:rabbit"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:rabbit"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:rabbit"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:sheep"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:sheep"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:sheep"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:shulker"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:shulker"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:shulker"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:silverfish"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:silverfish"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:silverfish"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:skeleton"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:skeleton"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:skeleton"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:skeleton_horse"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:skeleton_horse"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:skeleton_horse"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:slime"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:slime"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:slime"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:spider"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:spider"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:spider"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:squid"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:squid"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:squid"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:stray"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:stray"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:stray"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:vex"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:vex"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:vex"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:villager"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:villager"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:villager"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:vindication_illager"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:vindication_illager"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:vindication_illager"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:witch"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:witch"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:witch"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:wither_skeleton"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:wither_skeleton"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:wither_skeleton"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:wolf"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:wolf"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:wolf"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie_horse"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie_horse"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie_horse"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie_pigman"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie_pigman"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie_pigman"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie_villager"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie_villager"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"minecraft:zombie_villager"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:explosive_skeleton"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:explosive_skeleton"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:explosive_skeleton"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:zombie_gunner"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:zombie_gunner"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:zombie_gunner"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:bloodmoon_golem"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:bloodmoon_golem"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:bloodmoon_golem"}}~'
+- name: minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:rocket_angel"}}
+  location: 'assets/item/minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:rocket_angel"}}.png'
+  strings:
+  - '~minecraft:spawn_egg:0__{EntityTag:{id:"gunsrpg:rocket_angel"}}~'
+- name: gunsrpg:stone_ammo_762mm:0
+  location: 'assets/item/gunsrpg:stone_ammo_762mm:0.png'
+  strings:
+  - '~gunsrpg:stone_ammo_762mm:0~'
+- name: gunsrpg:stone_ammo_556mm:0
+  location: 'assets/item/gunsrpg:stone_ammo_556mm:0.png'
+  strings:
+  - '~gunsrpg:stone_ammo_556mm:0~'
+- name: minecraft:prismarine_shard:0
+  location: 'assets/item/minecraft:prismarine_shard:0.png'
+  strings:
+  - '~minecraft:prismarine_shard:0~'
+- name: minecraft:melon_block:0
+  location: 'assets/item/minecraft:melon_block:0.png'
+  strings:
+  - '~minecraft:melon_block:0~'
+- name: minecraft:brown_glazed_terracotta:0
+  location: 'assets/item/minecraft:brown_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:brown_glazed_terracotta:0~'
+- name: minecraft:blaze_powder:0
+  location: 'assets/item/minecraft:blaze_powder:0.png'
+  strings:
+  - '~minecraft:blaze_powder:0~'
+- name: minecraft:stained_hardened_clay:0
+  location: 'assets/item/minecraft:stained_hardened_clay:0.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:0~'
+- name: minecraft:stained_hardened_clay:1
+  location: 'assets/item/minecraft:stained_hardened_clay:1.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:1~'
+- name: minecraft:stained_hardened_clay:2
+  location: 'assets/item/minecraft:stained_hardened_clay:2.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:2~'
+- name: minecraft:stained_hardened_clay:3
+  location: 'assets/item/minecraft:stained_hardened_clay:3.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:3~'
+- name: minecraft:stained_hardened_clay:4
+  location: 'assets/item/minecraft:stained_hardened_clay:4.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:4~'
+- name: minecraft:stained_hardened_clay:5
+  location: 'assets/item/minecraft:stained_hardened_clay:5.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:5~'
+- name: minecraft:stained_hardened_clay:6
+  location: 'assets/item/minecraft:stained_hardened_clay:6.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:6~'
+- name: minecraft:stained_hardened_clay:7
+  location: 'assets/item/minecraft:stained_hardened_clay:7.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:7~'
+- name: minecraft:stained_hardened_clay:8
+  location: 'assets/item/minecraft:stained_hardened_clay:8.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:8~'
+- name: minecraft:stained_hardened_clay:9
+  location: 'assets/item/minecraft:stained_hardened_clay:9.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:9~'
+- name: minecraft:stained_hardened_clay:10
+  location: 'assets/item/minecraft:stained_hardened_clay:10.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:10~'
+- name: minecraft:stained_hardened_clay:11
+  location: 'assets/item/minecraft:stained_hardened_clay:11.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:11~'
+- name: minecraft:stained_hardened_clay:12
+  location: 'assets/item/minecraft:stained_hardened_clay:12.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:12~'
+- name: minecraft:stained_hardened_clay:13
+  location: 'assets/item/minecraft:stained_hardened_clay:13.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:13~'
+- name: minecraft:stained_hardened_clay:14
+  location: 'assets/item/minecraft:stained_hardened_clay:14.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:14~'
+- name: minecraft:stained_hardened_clay:15
+  location: 'assets/item/minecraft:stained_hardened_clay:15.png'
+  strings:
+  - '~minecraft:stained_hardened_clay:15~'
+- name: minecraft:leather:0
+  location: 'assets/item/minecraft:leather:0.png'
+  strings:
+  - '~minecraft:leather:0~'
+- name: minecraft:record_ward:0
+  location: 'assets/item/minecraft:record_ward:0.png'
+  strings:
+  - '~minecraft:record_ward:0~'
+- name: gunsrpg:barrel:0
+  location: 'assets/item/gunsrpg:barrel:0.png'
+  strings:
+  - '~gunsrpg:barrel:0~'
+- name: minecraft:record_11:0
+  location: 'assets/item/minecraft:record_11:0.png'
+  strings:
+  - '~minecraft:record_11:0~'
+- name: gunsrpg:diamond_ammo_556mm:0
+  location: 'assets/item/gunsrpg:diamond_ammo_556mm:0.png'
+  strings:
+  - '~gunsrpg:diamond_ammo_556mm:0~'
+- name: minecraft:record_13:0
+  location: 'assets/item/minecraft:record_13:0.png'
+  strings:
+  - '~minecraft:record_13:0~'
+- name: minecraft:rabbit_foot:0
+  location: 'assets/item/minecraft:rabbit_foot:0.png'
+  strings:
+  - '~minecraft:rabbit_foot:0~'
+- name: gunsrpg:wooden_ammo_crossbow_bolt:0
+  location: 'assets/item/gunsrpg:wooden_ammo_crossbow_bolt:0.png'
+  strings:
+  - '~gunsrpg:wooden_ammo_crossbow_bolt:0~'
+- name: minecraft:experience_bottle:0
+  location: 'assets/item/minecraft:experience_bottle:0.png'
+  strings:
+  - '~minecraft:experience_bottle:0~'
+- name: gunsrpg:amethyst_ammo_45acp:0
+  location: 'assets/item/gunsrpg:amethyst_ammo_45acp:0.png'
+  strings:
+  - '~gunsrpg:amethyst_ammo_45acp:0~'
+- name: minecraft:iron_boots:0
+  location: 'assets/item/minecraft:iron_boots:0.png'
+  strings:
+  - '~minecraft:iron_boots:0~'
+- name: minecraft:diamond_chestplate:0
+  location: 'assets/item/minecraft:diamond_chestplate:0.png'
+  strings:
+  - '~minecraft:diamond_chestplate:0~'
+- name: minecraft:golden_chestplate:0
+  location: 'assets/item/minecraft:golden_chestplate:0.png'
+  strings:
+  - '~minecraft:golden_chestplate:0~'
+- name: minecraft:end_stone:0
+  location: 'assets/item/minecraft:end_stone:0.png'
+  strings:
+  - '~minecraft:end_stone:0~'
+- name: minecraft:log:0
+  location: 'assets/item/minecraft:log:0.png'
+  strings:
+  - '~minecraft:log:0~'
+- name: minecraft:log:1
+  location: 'assets/item/minecraft:log:1.png'
+  strings:
+  - '~minecraft:log:1~'
+- name: minecraft:log:2
+  location: 'assets/item/minecraft:log:2.png'
+  strings:
+  - '~minecraft:log:2~'
+- name: minecraft:log:3
+  location: 'assets/item/minecraft:log:3.png'
+  strings:
+  - '~minecraft:log:3~'
+- name: minecraft:furnace:0
+  location: 'assets/item/minecraft:furnace:0.png'
+  strings:
+  - '~minecraft:furnace:0~'
+- name: gunsrpg:gold_egg_shard:0
+  location: 'assets/item/gunsrpg:gold_egg_shard:0.png'
+  strings:
+  - '~gunsrpg:gold_egg_shard:0~'
+- name: minecraft:flint:0
+  location: 'assets/item/minecraft:flint:0.png'
+  strings:
+  - '~minecraft:flint:0~'
+- name: gunsrpg:iron_ammo_9mm:0
+  location: 'assets/item/gunsrpg:iron_ammo_9mm:0.png'
+  strings:
+  - '~gunsrpg:iron_ammo_9mm:0~'
+- name: minecraft:activator_rail:0
+  location: 'assets/item/minecraft:activator_rail:0.png'
+  strings:
+  - '~minecraft:activator_rail:0~'
+- name: gunsrpg:large_bullet_casing:0
+  location: 'assets/item/gunsrpg:large_bullet_casing:0.png'
+  strings:
+  - '~gunsrpg:large_bullet_casing:0~'
+- name: minecraft:spruce_stairs:0
+  location: 'assets/item/minecraft:spruce_stairs:0.png'
+  strings:
+  - '~minecraft:spruce_stairs:0~'
+- name: minecraft:stained_glass:0
+  location: 'assets/item/minecraft:stained_glass:0.png'
+  strings:
+  - '~minecraft:stained_glass:0~'
+- name: minecraft:stained_glass:1
+  location: 'assets/item/minecraft:stained_glass:1.png'
+  strings:
+  - '~minecraft:stained_glass:1~'
+- name: minecraft:stained_glass:2
+  location: 'assets/item/minecraft:stained_glass:2.png'
+  strings:
+  - '~minecraft:stained_glass:2~'
+- name: minecraft:stained_glass:3
+  location: 'assets/item/minecraft:stained_glass:3.png'
+  strings:
+  - '~minecraft:stained_glass:3~'
+- name: minecraft:stained_glass:4
+  location: 'assets/item/minecraft:stained_glass:4.png'
+  strings:
+  - '~minecraft:stained_glass:4~'
+- name: minecraft:stained_glass:5
+  location: 'assets/item/minecraft:stained_glass:5.png'
+  strings:
+  - '~minecraft:stained_glass:5~'
+- name: minecraft:stained_glass:6
+  location: 'assets/item/minecraft:stained_glass:6.png'
+  strings:
+  - '~minecraft:stained_glass:6~'
+- name: minecraft:stained_glass:7
+  location: 'assets/item/minecraft:stained_glass:7.png'
+  strings:
+  - '~minecraft:stained_glass:7~'
+- name: minecraft:stained_glass:8
+  location: 'assets/item/minecraft:stained_glass:8.png'
+  strings:
+  - '~minecraft:stained_glass:8~'
+- name: minecraft:stained_glass:9
+  location: 'assets/item/minecraft:stained_glass:9.png'
+  strings:
+  - '~minecraft:stained_glass:9~'
+- name: minecraft:stained_glass:10
+  location: 'assets/item/minecraft:stained_glass:10.png'
+  strings:
+  - '~minecraft:stained_glass:10~'
+- name: minecraft:stained_glass:11
+  location: 'assets/item/minecraft:stained_glass:11.png'
+  strings:
+  - '~minecraft:stained_glass:11~'
+- name: minecraft:stained_glass:12
+  location: 'assets/item/minecraft:stained_glass:12.png'
+  strings:
+  - '~minecraft:stained_glass:12~'
+- name: minecraft:stained_glass:13
+  location: 'assets/item/minecraft:stained_glass:13.png'
+  strings:
+  - '~minecraft:stained_glass:13~'
+- name: minecraft:stained_glass:14
+  location: 'assets/item/minecraft:stained_glass:14.png'
+  strings:
+  - '~minecraft:stained_glass:14~'
+- name: minecraft:stained_glass:15
+  location: 'assets/item/minecraft:stained_glass:15.png'
+  strings:
+  - '~minecraft:stained_glass:15~'
+- name: minecraft:white_shulker_box:0
+  location: 'assets/item/minecraft:white_shulker_box:0.png'
+  strings:
+  - '~minecraft:white_shulker_box:0~'
+- name: minecraft:golden_horse_armor:0
+  location: 'assets/item/minecraft:golden_horse_armor:0.png'
+  strings:
+  - '~minecraft:golden_horse_armor:0~'
+- name: minecraft:grass:0
+  location: 'assets/item/minecraft:grass:0.png'
+  strings:
+  - '~minecraft:grass:0~'
+- name: gunsrpg:iron_ammo_762mm:0
+  location: 'assets/item/gunsrpg:iron_ammo_762mm:0.png'
+  strings:
+  - '~gunsrpg:iron_ammo_762mm:0~'
+- name: minecraft:dragon_breath:0
+  location: 'assets/item/minecraft:dragon_breath:0.png'
+  strings:
+  - '~minecraft:dragon_breath:0~'
+- name: minecraft:red_sandstone:0
+  location: 'assets/item/minecraft:red_sandstone:0.png'
+  strings:
+  - '~minecraft:red_sandstone:0~'
+- name: minecraft:red_sandstone:1
+  location: 'assets/item/minecraft:red_sandstone:1.png'
+  strings:
+  - '~minecraft:red_sandstone:1~'
+- name: minecraft:red_sandstone:2
+  location: 'assets/item/minecraft:red_sandstone:2.png'
+  strings:
+  - '~minecraft:red_sandstone:2~'
+- name: minecraft:yellow_shulker_box:0
+  location: 'assets/item/minecraft:yellow_shulker_box:0.png'
+  strings:
+  - '~minecraft:yellow_shulker_box:0~'
+- name: minecraft:brick_block:0
+  location: 'assets/item/minecraft:brick_block:0.png'
+  strings:
+  - '~minecraft:brick_block:0~'
+- name: minecraft:hardened_clay:0
+  location: 'assets/item/minecraft:hardened_clay:0.png'
+  strings:
+  - '~minecraft:hardened_clay:0~'
+- name: minecraft:iron_pickaxe:0
+  location: 'assets/item/minecraft:iron_pickaxe:0.png'
+  strings:
+  - '~minecraft:iron_pickaxe:0~'
+- name: minecraft:bowl:0
+  location: 'assets/item/minecraft:bowl:0.png'
+  strings:
+  - '~minecraft:bowl:0~'
+- name: minecraft:egg:0
+  location: 'assets/item/minecraft:egg:0.png'
+  strings:
+  - '~minecraft:egg:0~'
+- name: minecraft:ender_pearl:0
+  location: 'assets/item/minecraft:ender_pearl:0.png'
+  strings:
+  - '~minecraft:ender_pearl:0~'
+- name: minecraft:diamond:0
+  location: 'assets/item/minecraft:diamond:0.png'
+  strings:
+  - '~minecraft:diamond:0~'
+- name: minecraft:record_mellohi:0
+  location: 'assets/item/minecraft:record_mellohi:0.png'
+  strings:
+  - '~minecraft:record_mellohi:0~'
+- name: minecraft:record_stal:0
+  location: 'assets/item/minecraft:record_stal:0.png'
+  strings:
+  - '~minecraft:record_stal:0~'
+- name: minecraft:carrot:0
+  location: 'assets/item/minecraft:carrot:0.png'
+  strings:
+  - '~minecraft:carrot:0~'
+- name: minecraft:beetroot_seeds:0
+  location: 'assets/item/minecraft:beetroot_seeds:0.png'
+  strings:
+  - '~minecraft:beetroot_seeds:0~'
+- name: minecraft:gold_ore:0
+  location: 'assets/item/minecraft:gold_ore:0.png'
+  strings:
+  - '~minecraft:gold_ore:0~'
+- name: gunsrpg:blast_furnace:0
+  location: 'assets/item/gunsrpg:blast_furnace:0.png'
+  strings:
+  - '~gunsrpg:blast_furnace:0~'
+- name: minecraft:spectral_arrow:0
+  location: 'assets/item/minecraft:spectral_arrow:0.png'
+  strings:
+  - '~minecraft:spectral_arrow:0~'
+- name: minecraft:enchanting_table:0
+  location: 'assets/item/minecraft:enchanting_table:0.png'
+  strings:
+  - '~minecraft:enchanting_table:0~'
+- name: minecraft:red_glazed_terracotta:0
+  location: 'assets/item/minecraft:red_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:red_glazed_terracotta:0~'
+- name: minecraft:tnt_minecart:0
+  location: 'assets/item/minecraft:tnt_minecart:0.png'
+  strings:
+  - '~minecraft:tnt_minecart:0~'
+- name: minecraft:white_glazed_terracotta:0
+  location: 'assets/item/minecraft:white_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:white_glazed_terracotta:0~'
+- name: minecraft:planks:0
+  location: 'assets/item/minecraft:planks:0.png'
+  strings:
+  - '~minecraft:planks:0~'
+- name: minecraft:planks:1
+  location: 'assets/item/minecraft:planks:1.png'
+  strings:
+  - '~minecraft:planks:1~'
+- name: minecraft:planks:2
+  location: 'assets/item/minecraft:planks:2.png'
+  strings:
+  - '~minecraft:planks:2~'
+- name: minecraft:planks:3
+  location: 'assets/item/minecraft:planks:3.png'
+  strings:
+  - '~minecraft:planks:3~'
+- name: minecraft:planks:4
+  location: 'assets/item/minecraft:planks:4.png'
+  strings:
+  - '~minecraft:planks:4~'
+- name: minecraft:planks:5
+  location: 'assets/item/minecraft:planks:5.png'
+  strings:
+  - '~minecraft:planks:5~'
+- name: minecraft:lead:0
+  location: 'assets/item/minecraft:lead:0.png'
+  strings:
+  - '~minecraft:lead:0~'
+- name: gunsrpg:amethyst_ammo_762mm:0
+  location: 'assets/item/gunsrpg:amethyst_ammo_762mm:0.png'
+  strings:
+  - '~gunsrpg:amethyst_ammo_762mm:0~'
+- name: minecraft:birch_boat:0
+  location: 'assets/item/minecraft:birch_boat:0.png'
+  strings:
+  - '~minecraft:birch_boat:0~'
+- name: minecraft:gold_block:0
+  location: 'assets/item/minecraft:gold_block:0.png'
+  strings:
+  - '~minecraft:gold_block:0~'
+- name: minecraft:spruce_boat:0
+  location: 'assets/item/minecraft:spruce_boat:0.png'
+  strings:
+  - '~minecraft:spruce_boat:0~'
+- name: minecraft:wooden_hoe:0
+  location: 'assets/item/minecraft:wooden_hoe:0.png'
+  strings:
+  - '~minecraft:wooden_hoe:0~'
+- name: minecraft:observer:0
+  location: 'assets/item/minecraft:observer:0.png'
+  strings:
+  - '~minecraft:observer:0~'
+- name: gunsrpg:airdrop:0
+  location: 'assets/item/gunsrpg:airdrop:0.png'
+  strings:
+  - '~gunsrpg:airdrop:0~'
+- name: gunsrpg:crossbow:0
+  location: 'assets/item/gunsrpg:crossbow:0.png'
+  strings:
+  - '~gunsrpg:crossbow:0~'
+- name: minecraft:paper:0
+  location: 'assets/item/minecraft:paper:0.png'
+  strings:
+  - '~minecraft:paper:0~'
+- name: minecraft:lime_glazed_terracotta:0
+  location: 'assets/item/minecraft:lime_glazed_terracotta:0.png'
+  strings:
+  - '~minecraft:lime_glazed_terracotta:0~'
+- name: minecraft:netherbrick:0
+  location: 'assets/item/minecraft:netherbrick:0.png'
+  strings:
+  - '~minecraft:netherbrick:0~'
+- name: gunsrpg:diamond_ammo_crossbow_bolt:0
+  location: 'assets/item/gunsrpg:diamond_ammo_crossbow_bolt:0.png'
+  strings:
+  - '~gunsrpg:diamond_ammo_crossbow_bolt:0~'
+- name: minecraft:lava_bucket:0
+  location: 'assets/item/minecraft:lava_bucket:0.png'
+  strings:
+  - '~minecraft:lava_bucket:0~'
+- name: minecraft:rotten_flesh:0
+  location: 'assets/item/minecraft:rotten_flesh:0.png'
+  strings:
+  - '~minecraft:rotten_flesh:0~'
+- name: minecraft:brick_stairs:0
+  location: 'assets/item/minecraft:brick_stairs:0.png'
+  strings:
+  - '~minecraft:brick_stairs:0~'
+- name: minecraft:record_mall:0
+  location: 'assets/item/minecraft:record_mall:0.png'
+  strings:
+  - '~minecraft:record_mall:0~'
+- name: gunsrpg:bacon_burger:0
+  location: 'assets/item/gunsrpg:bacon_burger:0.png'
+  strings:
+  - '~gunsrpg:bacon_burger:0~'
+- name: minecraft:purpur_stairs:0
+  location: 'assets/item/minecraft:purpur_stairs:0.png'
+  strings:
+  - '~minecraft:purpur_stairs:0~'
+- name: minecraft:soul_sand:0
+  location: 'assets/item/minecraft:soul_sand:0.png'
+  strings:
+  - '~minecraft:soul_sand:0~'
+- name: minecraft:orange_shulker_box:0
+  location: 'assets/item/minecraft:orange_shulker_box:0.png'
+  strings:
+  - '~minecraft:orange_shulker_box:0~'
+- name: gunsrpg:iron_ammo_45acp:0
+  location: 'assets/item/gunsrpg:iron_ammo_45acp:0.png'
+  strings:
+  - '~gunsrpg:iron_ammo_45acp:0~'
+- name: gunsrpg:stone_ammo_45acp:0
+  location: 'assets/item/gunsrpg:stone_ammo_45acp:0.png'
+  strings:
+  - '~gunsrpg:stone_ammo_45acp:0~'
+- name: gunsrpg:gun_parts:0
+  location: 'assets/item/gunsrpg:gun_parts:0.png'
+  strings:
+  - '~gunsrpg:gun_parts:0~'
+- name: minecraft:concrete:0
+  location: 'assets/item/minecraft:concrete:0.png'
+  strings:
+  - '~minecraft:concrete:0~'
+- name: minecraft:concrete:1
+  location: 'assets/item/minecraft:concrete:1.png'
+  strings:
+  - '~minecraft:concrete:1~'
+- name: minecraft:concrete:2
+  location: 'assets/item/minecraft:concrete:2.png'
+  strings:
+  - '~minecraft:concrete:2~'
+- name: minecraft:concrete:3
+  location: 'assets/item/minecraft:concrete:3.png'
+  strings:
+  - '~minecraft:concrete:3~'
+- name: minecraft:concrete:4
+  location: 'assets/item/minecraft:concrete:4.png'
+  strings:
+  - '~minecraft:concrete:4~'
+- name: minecraft:concrete:5
+  location: 'assets/item/minecraft:concrete:5.png'
+  strings:
+  - '~minecraft:concrete:5~'
+- name: minecraft:concrete:6
+  location: 'assets/item/minecraft:concrete:6.png'
+  strings:
+  - '~minecraft:concrete:6~'
+- name: minecraft:concrete:7
+  location: 'assets/item/minecraft:concrete:7.png'
+  strings:
+  - '~minecraft:concrete:7~'
+- name: minecraft:concrete:8
+  location: 'assets/item/minecraft:concrete:8.png'
+  strings:
+  - '~minecraft:concrete:8~'
+- name: minecraft:concrete:9
+  location: 'assets/item/minecraft:concrete:9.png'
+  strings:
+  - '~minecraft:concrete:9~'
+- name: minecraft:concrete:10
+  location: 'assets/item/minecraft:concrete:10.png'
+  strings:
+  - '~minecraft:concrete:10~'
+- name: minecraft:concrete:11
+  location: 'assets/item/minecraft:concrete:11.png'
+  strings:
+  - '~minecraft:concrete:11~'
+- name: minecraft:concrete:12
+  location: 'assets/item/minecraft:concrete:12.png'
+  strings:
+  - '~minecraft:concrete:12~'
+- name: minecraft:concrete:13
+  location: 'assets/item/minecraft:concrete:13.png'
+  strings:
+  - '~minecraft:concrete:13~'
+- name: minecraft:concrete:14
+  location: 'assets/item/minecraft:concrete:14.png'
+  strings:
+  - '~minecraft:concrete:14~'
+- name: minecraft:concrete:15
+  location: 'assets/item/minecraft:concrete:15.png'
+  strings:
+  - '~minecraft:concrete:15~'
+- name: minecraft:tallgrass:1
+  location: 'assets/item/minecraft:tallgrass:1.png'
+  strings:
+  - '~minecraft:tallgrass:1~'
+- name: minecraft:tallgrass:2
+  location: 'assets/item/minecraft:tallgrass:2.png'
+  strings:
+  - '~minecraft:tallgrass:2~'
+- name: minecraft:coal_ore:0
+  location: 'assets/item/minecraft:coal_ore:0.png'
+  strings:
+  - '~minecraft:coal_ore:0~'
+- name: minecraft:sugar:0
+  location: 'assets/item/minecraft:sugar:0.png'
+  strings:
+  - '~minecraft:sugar:0~'
+- name: minecraft:bucket:0
+  location: 'assets/item/minecraft:bucket:0.png'
+  strings:
+  - '~minecraft:bucket:0~'
+- name: gunsrpg:fruit_salad:0
+  location: 'assets/item/gunsrpg:fruit_salad:0.png'
+  strings:
+  - '~gunsrpg:fruit_salad:0~'
+- name: gunsrpg:garden_soup:0
+  location: 'assets/item/gunsrpg:garden_soup:0.png'
+  strings:
+  - '~gunsrpg:garden_soup:0~'
+- name: minecraft:red_shulker_box:0
+  location: 'assets/item/minecraft:red_shulker_box:0.png'
+  strings:
+  - '~minecraft:red_shulker_box:0~'
