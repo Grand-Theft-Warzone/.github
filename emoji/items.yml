@@ -1,25 +1,25 @@
 - name: fluid__water
-  location: 'item/fluid__water.png'
+  location: 'assets/item/fluid__water.png'
   strings:
   - '~fluid__water~'
 - name: fluid__lava
-  location: 'item/fluid__lava.png'
+  location: 'assets/item/fluid__lava.png'
   strings:
   - '~fluid__lava~'
 - name: fluid__tar
-  location: 'item/fluid__tar.png'
+  location: 'assets/item/fluid__tar.png'
   strings:
   - '~fluid__tar~'
 - name: fluid__white_paint
-  location: 'item/fluid__white_paint.png'
+  location: 'assets/item/fluid__white_paint.png'
   strings:
   - '~fluid__white_paint~'
 - name: fluid__yellow_paint
-  location: 'item/fluid__yellow_paint.png'
+  location: 'assets/item/fluid__yellow_paint.png'
   strings:
   - '~fluid__yellow_paint~'
 - name: fluid__red_paint
-  location: 'item/fluid__red_paint.png'
+  location: 'assets/item/fluid__red_paint.png'
   strings:
   - '~fluid__red_paint~'
 - name: cocricotmod__chair_dining_normal_white__0
