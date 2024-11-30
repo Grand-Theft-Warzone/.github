@@ -21,5 +21,5 @@ Check out our **[Grand Theft Warzone Development Roadmap](https://github.com/org
 <p>It's regularly updated, providing a glimpse into the game's future and showcasing upcoming features.</p>
 <p>Your feedback is vital, so feel free to share your thoughts and suggestions!</p>
 
-- [**Join us on Discord**](https://discord.gg/yRtuqc5YRA)
+- [**Join us on Discord**](https://discord.gg/TVEgyB6GmQ)
 - [**Visit our Website**](http://www.grandtheftwarzone.com)
